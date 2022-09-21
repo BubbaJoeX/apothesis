@@ -3842,7 +3842,7 @@ public class player_structure extends script.base_script
                             deed_scene = "naboo,rori,dantooine";
                             break;
                         case "corellia":
-                            deed_scene = "corellia,talus";
+                            deed_scene = "corellia,talus,taanab";
                             break;
                     }
                 }

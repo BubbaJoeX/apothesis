@@ -1508,6 +1508,7 @@ public class qatool extends script.base_script
                 }
             }
         }
+
         else if ((toLower(command)).equals("qawearables"))
         {
             String[] wearableMenuArray = qa.populateArray(self, "wearable_specie", "datatables/test/qa_wearables.iff");

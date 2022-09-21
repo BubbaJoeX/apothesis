@@ -75,6 +75,7 @@ public class mission_dynamic_base extends script.systems.missions.base.mission_b
         "dathomir",
         "lok",
         "rori",
+        "taanab",
         "endor"
     };
     public static final String[] PLANETS = 
@@ -88,6 +89,7 @@ public class mission_dynamic_base extends script.systems.missions.base.mission_b
         "dathomir",
         "lok",
         "rori",
+        "taanab",
         "endor"
     };
     public static final int DELIVERY_INTEREST_MIN_DELAY = 15;
@@ -124,6 +126,7 @@ public class mission_dynamic_base extends script.systems.missions.base.mission_b
     public static final String[] RECON_PLANETS = 
     {
         "tatooine",
+        "taanab",
         "naboo"
     };
     public static final int[] RECON_DIFFICULTY_MODIFIER = 
@@ -189,7 +192,9 @@ public class mission_dynamic_base extends script.systems.missions.base.mission_b
         "dantooine_mining_outpost",
         "dantooine_pirate_outpost",
         "dathomir_trade_outpost",
-        "dathomir_survey_outpost"
+        "dathomir_survey_outpost",
+        "pendath",
+        "pandath"
     };
     public static final float PREFERRED_DISTANCE = 1000.0f;
     public obj_id createMissionDataInContainer(obj_id objCreator, float fltEffeciencyRequirement, int intExpireTime, obj_id objCreatorToken, String strMissionType, String strScript) throws InterruptedException

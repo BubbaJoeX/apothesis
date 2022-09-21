@@ -8,6 +8,7 @@ package script;
 import script.library.utils;
 
 import java.io.File;
+import java.io.IOException;
 import java.util.*;
 
 
@@ -1646,6 +1647,43 @@ public class base_class
     public static void LOG(String channel, String msg)
     {
         LOG(channel, msg, null, null);
+    }
+    public static void DISCORD_LOG(String channel, String msg)
+    {
+        String apiKey = getConfigSetting("Discord", "webhookKey");
+        String avatar = "https://avatars1.githubusercontent.com/u/63135406";
+        String avatar_pic = "https://i.imgur.com/1kqk26z.png";
+        String url = "https://i.imgur.com/9Yg9lN7.png";
+        String gally = getGalaxyName();
+        DiscordWebhook webhook = new DiscordWebhook(apiKey);
+        webhook.setContent(msg);
+        webhook.setAvatarUrl(avatar_pic);
+        webhook.setUsername("Bot: " + gally);
+        try {
+            webhook.execute();
+        } catch (IOException io) {
+            io.printStackTrace();
+        }
+    }
+
+    /**
+     * Discord Log but not cancer and just plain text
+     * @param msg     What to send
+     */
+
+    public static void DISCORD_LOG_NOCANCER(String msg)
+    {
+        String apiKey = getConfigSetting("Redemption", "AdminLogDiscordWebhook");
+        String gally = getGalaxyName();
+        DiscordWebhook webhook = new DiscordWebhook(apiKey);
+        webhook.setContent(msg);
+        webhook.setUsername("Admin Log: " + gally);
+        try {
+            webhook.execute();
+        } catch (IOException io) {
+            io.printStackTrace();
+        }
+
     }
 
     /**
@@ -3861,11 +3899,14 @@ public class base_class
     /**
     * Send a system message to an individual
     */
-    public static void sendSystemMessageTestingOnly (String to, String localizedMessageText)
+    public static void broadcast (obj_id to, String localizedMessageText)
     {
         sendSystemMessage (to, localizedMessageText, null);
     }
-
+    public static void systemMsg (obj_id to, String localizedMessageText)
+    {
+        sendSystemMessage (to, localizedMessageText, null);
+    }
     /**
     * Send a system message to an individual
     */
@@ -9748,9 +9789,9 @@ public class base_class
 	{
 		warpPlayer(player, sceneName, x_w, y_w, z_w, building, cell, x_p, y_p, z_p, callback, false);
 	}
-	public static void warpPlayer(obj_id player, location loc, String callback, boolean forceLoadScreen) {
+	/*public static void warpPlayer(obj_id player, location loc, String callback, boolean forceLoadScreen) {
 	    warpPlayer(player, loc.area, loc.x, loc.y, loc.z, loc.cell, 0f, 0f, 0f, callback, forceLoadScreen);
-    }
+    }*/
 	/**
 	 * Disconnects a player.  If the safeLogout objvar is set on them, logs them out too.
 	 * @param player  the player to disconnect

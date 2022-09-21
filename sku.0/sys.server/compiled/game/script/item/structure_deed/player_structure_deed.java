@@ -54,7 +54,7 @@ public class player_structure_deed extends script.base_script
                     setObjVar(self, "player_structure.deed.scene", deed_scene);
                     break;
                 case "corellia":
-                    deed_scene = "corellia,talus";
+                    deed_scene = "corellia,talus,taanab";
                     setObjVar(self, "player_structure.deed.scene", deed_scene);
                     break;
                 case "tatooine,lok,naboo,rori,dantooine,corellia,talus":

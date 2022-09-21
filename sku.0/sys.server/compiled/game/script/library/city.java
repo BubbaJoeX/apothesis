@@ -99,6 +99,7 @@ public class city extends script.base_script
     public static final string_id SID_OVER_MAX_LIMIT = new string_id("city/city", "must_remove_decorations_or_structures");
     public static final String CITY_SPECS = "datatables/city/specializations.iff";
     public static final string_id SID_NO_RIGHTS = new string_id("player_structure", "no_transfer_rights");
+    public static final string_id CITY_WARN_MESSAGE = new string_id("player_structure", "city_warn_message");
     public static final String RESERVED_CITY_NAMES[] = 
     {
         "bela vistal",
@@ -1880,4 +1881,19 @@ public class city extends script.base_script
         obj_id[] returnArray = utils.toStaticObjIdArray(safeHouseCitizens);
         return returnArray;
     }
+    /*public static void handleCityWarn(obj_id self, obj_id citizen, city_id city) throws InterruptedException
+    {
+        if (!isInWorldCell(citizen)) {
+            expelFromBuilding(citizen);
+        }
+        broadcast(citizen, "You have 2 minutes to leave the area before you become and enemy!");
+        dictionary d = new dictionary();
+        getCitizenOfCityId(city);
+        
+        
+    }
+    public static void handleCityWarnTef(obj_id self, obj_id citizen)
+    {
+        
+    }*/
 }

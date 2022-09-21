@@ -1638,4 +1638,7 @@ public class ai_lib extends script.base_script
     {
         return hasScript(self, "theme_park.heroic.echo_base.vehicle_mine");
     }
+    public static void spawnAdd(obj_id self, String mob, location loc) throws InterruptedException {
+
+    }
 }

@@ -59,10 +59,10 @@ public class crafting_garden_medium extends script.systems.crafting.structure.cr
     };
     public static final String[] ALT_PLANETS = 
     {
-        "corellia,talus",
-        "corellia,talus",
-        "corellia,talus",
-        "corellia,talus",
+        "corellia,talus,taanab",
+        "corellia,talus,taanab",
+        "corellia,talus,taanab",
+        "corellia,talus,taanab",
         "naboo,rori,dantooine",
         "naboo,rori,dantooine",
         "naboo,rori,dantooine",

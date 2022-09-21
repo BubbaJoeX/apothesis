@@ -80,6 +80,7 @@ public class gcw extends script.base_script
         "naboo",
         "rori",
         "talus",
+        "taanab",
         "yavin4",
         "space_tatooine",
         "space_corellia",

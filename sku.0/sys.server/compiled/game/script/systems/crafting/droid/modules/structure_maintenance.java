@@ -49,6 +49,7 @@ public class structure_maintenance extends script.base_script
         "rori",
         "talus",
         "tatooine",
+        "taanab",
         "yavin4"
     };
     public static final String[][] travelMap = 

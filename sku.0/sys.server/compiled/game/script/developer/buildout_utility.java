@@ -46,7 +46,8 @@ public class buildout_utility extends script.base_script {
             "dathomir",
             "dantooine",
             "naboo",
-            "lok"
+            "lok",
+            "taanab"
     };
 
     public int OnAttach(obj_id self) throws InterruptedException {

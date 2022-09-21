@@ -299,7 +299,10 @@ public class pet_control_device extends script.base_script
             }
             if (callable.hasCDCallable(self))
             {
-                return SCRIPT_CONTINUE;
+                if (!utils.checkConfigFlag("GameServer", "overrideMaxCallables"))
+                {
+                    return SCRIPT_CONTINUE;
+                }
             }
             if (!pet_lib.isInValidUnpackLocation(player))
             {

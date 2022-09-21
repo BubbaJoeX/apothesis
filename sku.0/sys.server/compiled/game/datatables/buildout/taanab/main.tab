@@ -1,0 +1,1003 @@
+server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+h	i	f	f	f	f	f	f	f	s	p
+object/tangible/planet_map_location/city.iff	0	13250.2	75	3765.85	1	0	0	0	planet_map.map_loc	buildoutObjectId|0|0|$|
+object/building/faction_perk/hq/planet_base_register.iff	0	0.0	0.0	0.0	1	0	0	0		buildoutObjectId|0|0|$|
+object/building/taanab/ply_corl_house_m_s01_fp1.iff	0	2612.92	121.354	12781.8	0	0	1	0		buildoutObjectId|0|0|portalProperty.crc|0|1374805460|$|
+object/cell/cell.iff	1	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	2	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	3	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	4	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/building/general/rori_bat_cave.iff	0	2514.26	54.9592	12743.1	-0.707107	0	0.707107	0		buildoutObjectId|0|0|portalProperty.crc|0|2132267142|$|
+object/cell/cell.iff	1	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	2	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	3	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	4	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	5	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	6	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	7	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	8	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	9	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	10	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	11	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/building/taanab/ply_corl_house_s_s01_fp2.iff	0	11803	34.7581	4512.43	0.965093	0	-0.261909	0		buildoutObjectId|0|0|portalProperty.crc|0|-1387612462|$|
+object/cell/cell.iff	1	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	2	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	3	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	4	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/building/general/cave_06_flatland_s01.iff	0	13538.1	80.4277	4424.21	0	0	1	0		buildoutObjectId|0|0|portalProperty.crc|0|100702777|$|
+object/cell/cell.iff	1	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	2	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	3	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	4	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	5	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	6	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	7	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	8	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	9	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	10	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	11	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/building/general/space_dungeon_corellian_corvette_base.iff	0	12164.3	900.427	4286	0.435682	0	0.9001	0		buildoutObjectId|0|0|isControllerObject|0|1|portalProperty.crc|0|1993179413|space_dungeon.buildout_area|4|taanab|space_dungeon.buildout_row|0|0|space_dungeon.is_active|0|1|space_dungeon.name|4|corvette_neutral|spawn_table|4|datatables/spawning/dungeon/corvette_neutral.iff|$|
+object/cell/cell.iff	1	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	2	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/tangible/door/echo_base_door_small.iff	2	-38.6488	0.162683	0.00364252	0.707108	0	-0.707106	0	theme_park.stp.stp_sign:theme_park.stp.door_corvette	buildoutObjectId|0|0|stp.sign.name|4|Docking Hatch|$|
+object/cell/cell.iff	3	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	4	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	5	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	6	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	7	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	8	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	9	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	10	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	11	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	12	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	13	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	14	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	15	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	16	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	17	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	18	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/tangible/terminal/terminal_elevator_up.iff	18	4.995	-8e-06	-13.3599	0.000796577	0	1	0	systems.elevator.elevator_up	buildoutObjectId|0|0|$|
+object/tangible/terminal/terminal_elevator_down.iff	18	4.9957	12	-13.3692	0	0	1	0	systems.elevator.elevator_down	buildoutObjectId|0|0|$|
+object/cell/cell.iff	19	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/tangible/terminal/terminal_elevator_up.iff	19	-0.00611539	-12	37.6403	0	0	1	0	systems.elevator.elevator_up	buildoutObjectId|0|0|$|
+object/tangible/terminal/terminal_elevator_down.iff	19	-0.0187669	-1e-05	37.654	0	0	1	0	systems.elevator.elevator_down	buildoutObjectId|0|0|$|
+object/cell/cell.iff	20	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	21	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	22	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	23	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	24	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/particle/particle_lg_explosion.iff	24	6.95162	0.16998	-56.6482	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/particle/pt_detector.iff	24	7.86018	-2.05294	-57.0181	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/item/eqp_camping_crate_s1.iff	24	13.4593	-6.7	-55.7877	0.971338	0	-0.237703	0		buildoutObjectId|0|0|$|
+object/static/item/eqp_camping_crate_s1.iff	24	13.5368	-6.28552	-55.7848	0.939373	0	-0.342898	0		buildoutObjectId|0|0|$|
+object/static/item/eqp_camping_crate_s1.iff	24	13.1448	-6.7	-55.4538	0.971338	0	-0.237703	0		buildoutObjectId|0|0|$|
+object/static/item/item_ammo_rocket.iff	24	13.1998	-6.26327	-55.263	0.857709	0	0.514136	0		buildoutObjectId|0|0|$|
+object/static/item/item_binoculars.iff	24	12.9594	-6.29727	-55.5445	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/item/item_con_tankard_full.iff	24	13.3862	-6.29783	-55.4399	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	25	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	26	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	27	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	28	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	29	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	30	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	31	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	32	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	33	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	34	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	35	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	36	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	37	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	38	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	39	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	40	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	41	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	42	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	43	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	44	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	45	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	46	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	47	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	48	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	49	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	50	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	51	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	52	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	53	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	54	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	55	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	56	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/tangible/terminal/terminal_elevator_down.iff	56	17.9708	-12	120.65	0	0	1	0	systems.elevator.elevator_down	buildoutObjectId|0|0|$|
+object/tangible/terminal/terminal_elevator_up.iff	56	17.9978	-24	120.627	0	0	1	0	systems.elevator.elevator_up	buildoutObjectId|0|0|$|
+object/cell/cell.iff	57	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/tangible/terminal/terminal_elevator.iff	57	-18.112	-1.00136e-05	120.625	0	0	1	0	systems.elevator.elevator	buildoutObjectId|0|0|$|
+object/tangible/terminal/terminal_elevator_up.iff	57	-18.0249	-12	120.651	0	0	1	0	systems.elevator.elevator_up	buildoutObjectId|0|0|$|
+object/cell/cell.iff	58	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	59	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	60	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	61	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	62	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	63	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	64	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	65	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	66	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/building/taanab/starport_taanab.iff	0	13432	75	3990.77	0	0	1	0	planet_map.map_loc:structure.municipal.starport:city.ship_spawner:structure.municipal.starport_city	buildoutObjectId|0|0|portalProperty.crc|0|-940528188|travel.air_time|0|60|travel.base_object|7|32001240:32001243:32001246:32001249:32001252:32001264:|travel.ground_time|0|300|travel.point_name|4|Pendath|travel.shuttle_available|0|1|travel.shuttle_timestamp|0|60|travel.version|0|3|$|
+object/cell/cell.iff	1	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/modern/bar_piece_curve_s2.iff	1	-9.01161	0.639421	74.6226	0.707122	0	0.707091	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/decorative/decorative_gift_box.iff	1	-8.60435	1.79171	74.0159	0.941075	0	0.338197	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/decorative/carved_bowl.iff	1	-10.0835	1.79166	76.4036	1	0	0	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/decorative/diagnostic_screen.iff	1	-8.92323	1.79166	75.6486	-0.505877	0	0.862605	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/modern/couch_modern_style_02.iff	1	-0.191126	0.639421	72.8392	1	0	0	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/decorative/wod_potted_plant_01.iff	1	-2.88097	0.639421	73.0707	1	0	0	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/decorative/wod_potted_plant_01.iff	1	2.48859	0.639421	73.1239	1	0	0	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/modern/couch_modern_style_02.iff	1	5.25702	0.639421	72.9016	1	0	0	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/decorative/wod_potted_plant_01.iff	1	7.96744	0.639421	73.0065	0	0	1	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	2	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	3	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	4	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/soundobject/soundobject_starport_announcer.iff	4	-0.654025	8.86558	56.3904	1	0	0	0		buildoutObjectId|0|0|$|
+object/soundobject/soundobject_starport_interior.iff	4	-1.09569	8.61781	62.948	1	0	0	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/all/frn_all_tree_potted_s1.iff	4	-4	0.639421	57	0.707106	0	0.707107	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/all/frn_all_tree_potted_s1.iff	4	3	0.639421	57	-0.707107	0	0.707107	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/all/frn_all_chair_upholstered_hue_s1.iff	4	0	0.639421	56	0	0	1	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/all/frn_all_chair_upholstered_hue_s1.iff	4	3	0.639421	56	0	0	1	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/all/frn_all_chair_upholstered_hue_s1.iff	4	-1	0.639421	56	0	0	1	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/all/frn_all_chair_upholstered_hue_s1.iff	4	-4	0.639421	58	1	0	0	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/all/frn_all_chair_upholstered_hue_s1.iff	4	-3	0.639421	58	1	0	0	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/all/frn_all_chair_upholstered_hue_s1.iff	4	0	0.639421	58	1	0	0	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/all/frn_all_chair_upholstered_hue_s1.iff	4	3	0.639421	58	1	0	0	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/all/frn_all_chair_upholstered_hue_s1.iff	4	1	0.639421	58	1	0	0	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/all/frn_all_chair_upholstered_hue_s1.iff	4	-2	0.639421	56	0	0	1	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/all/frn_all_chair_upholstered_hue_s1.iff	4	-3	0.639421	56	0	0	1	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/all/frn_all_chair_upholstered_hue_s1.iff	4	-1	0.639421	58	1	0	0	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/all/frn_all_chair_upholstered_hue_s1.iff	4	-2	0.639421	58	1	0	0	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/all/frn_all_chair_upholstered_hue_s1.iff	4	2	0.639421	56	0	0	1	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/all/frn_all_chair_upholstered_hue_s1.iff	4	1	0.639421	56	0	0	1	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/all/frn_all_chair_upholstered_hue_s1.iff	4	-4	0.639421	56	0	0	1	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/all/frn_all_chair_upholstered_hue_s1.iff	4	2	0.639421	58	1	0	0	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/all/frn_all_chair_upholstered_hue_s1.iff	4	4	0.639421	57	0.707107	0	0.707107	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/all/frn_all_chair_upholstered_hue_s1.iff	4	-5.00997	0.639423	57.0027	0.707108	0	-0.707106	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/cell/cell.iff	5	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	6	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	7	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/space/frn_chair_falcon_passenger_s01.iff	7	37.5822	0.741794	34.358	0.999638	0	0.026899	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/space/frn_chair_falcon_passenger_s01.iff	7	36.958	0.741794	35.6255	0.521404	0	0.85331	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/modern/table_modern_style_01.iff	7	37.662	0.639417	35.27	1	0	0	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/space/frn_chair_falcon_passenger_s01.iff	7	38.5128	0.741794	36.0194	-0.382683	0	0.92388	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/space/frn_chair_falcon_passenger_s01.iff	7	38.5	0.741788	41.8014	-0.026899	0	0.999638	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/space/frn_chair_falcon_passenger_s01.iff	7	39.124	0.741788	40.5338	0.85331	0	-0.521404	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/modern/table_modern_style_01.iff	7	38.4199	0.639417	40.8893	0	0	1	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/space/frn_chair_falcon_passenger_s01.iff	7	37.5693	0.741788	40.1398	0.92388	0	0.382683	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/space/frn_chair_falcon_passenger_s01.iff	7	41.667	0.741788	39.0092	-0.026899	0	0.999638	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/space/frn_chair_falcon_passenger_s01.iff	7	42.291	0.741788	37.7417	0.85331	0	-0.521404	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/modern/table_modern_style_01.iff	7	41.5869	0.639417	38.0971	0	0	1	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/space/frn_chair_falcon_passenger_s01.iff	7	40.7363	0.741788	37.3476	0.92388	0	0.382683	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/space/frn_chair_falcon_passenger_s01.iff	7	49.5666	0.741789	49.8346	-0.026899	0	0.999638	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/space/frn_chair_falcon_passenger_s01.iff	7	50.1906	0.741789	48.5671	0.85331	0	-0.521404	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/modern/table_modern_style_01.iff	7	49.4865	0.639418	48.9225	0	0	1	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/space/frn_chair_falcon_passenger_s01.iff	7	48.6359	0.741789	48.173	0.92388	0	0.382683	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/space/frn_chair_falcon_passenger_s01.iff	7	51.2783	0.74179	46.8442	-0.026899	0	0.999638	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/space/frn_chair_falcon_passenger_s01.iff	7	51.9024	0.74179	45.5766	0.85331	0	-0.521404	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/modern/table_modern_style_01.iff	7	51.1982	0.639419	45.932	0	0	1	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/space/frn_chair_falcon_passenger_s01.iff	7	50.3477	0.74179	45.1825	0.92388	0	0.382683	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/space/frn_chair_falcon_passenger_s01.iff	7	44.8183	0.741788	48.9415	-0.026899	0	0.999638	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/space/frn_chair_falcon_passenger_s01.iff	7	45.4423	0.741788	47.6739	0.85331	0	-0.521404	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/modern/table_modern_style_01.iff	7	44.7382	0.639417	48.0294	0	0	1	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/space/frn_chair_falcon_passenger_s01.iff	7	43.8877	0.741788	47.2799	0.92388	0	0.382683	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/modern/couch_modern_style_01.iff	7	54.4327	-0.521137	41.2049	0.120107	0	0.992761	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/modern/couch_modern_style_01.iff	7	57.1955	-0.52113	39.5361	-0.617372	0	0.78667	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/modern/couch_modern_style_01.iff	7	55.5752	-0.521137	36.8601	0.992761	0	-0.120107	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/modern/rug_oval_sml_s01.iff	7	54.604	-0.521137	38.8619	-0.617372	0	0.786671	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/modern/couch_modern_style_01.iff	7	42.8757	-0.521137	31.3952	0.382683	0	0.92388	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/modern/couch_modern_style_01.iff	7	42.1037	-0.521138	32.1573	0.92388	0	-0.382683	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/decorative/wod_sm_potted_plant.iff	7	44.0666	-0.521137	33.4331	1	0	0	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/decorative/wod_sm_potted_plant.iff	7	41.0045	-0.521138	30.2607	0	0	1	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/decorative/wod_sm_potted_plant.iff	7	53.5347	6.52298	39.6851	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	8	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	9	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/modern/bar_counter_s1.iff	9	-42.4699	1.63942	59.6716	0.953847	0	-0.300293	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/decorative/bottle_fat.iff	9	-42.9151	2.79031	59.5057	1	0	0	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/decorative/bottle_pear.iff	9	-43.2044	2.79031	59.2718	1	0	0	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/decorative/bottle_tall.iff	9	-43.0933	2.79031	58.9552	1	0	0	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/decorative/beast_stuffed.iff	9	-41.7383	2.79031	60.1616	1	0	0	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/modern/rug_rect_sml_s01.iff	9	-38.7654	1.59801	62.7325	0.92388	0	0.382683	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/modern/chair_modern_style_01.iff	9	-38.2261	1.63974	63.8521	-0.00269912	0	0.999996	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/modern/chair_modern_style_01.iff	9	-39.7773	1.63974	62.1367	0.705196	0	0.709013	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/modern/chair_modern_style_01.iff	9	-37.5825	1.63974	62.7104	0.709014	0	-0.705194	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/modern/chair_modern_style_01.iff	9	-38.6875	1.63974	61.6279	0.999996	0	0.00269899	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/modern/chair_modern_style_01.iff	9	-39.3569	1.63974	63.3271	0.380188	0	0.924909	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/modern/rug_rect_sml_s01.iff	9	-33.6929	1.63974	65.1629	-0.630888	0	0.775874	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/modern/chair_modern_style_01.iff	9	-34.7578	1.68115	64.5219	0.957469	0	0.288537	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/modern/chair_modern_style_01.iff	9	-32.5202	1.68115	65.1068	0.881059	0	-0.473007	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/modern/chair_modern_style_01.iff	9	-34.6704	1.68115	65.8296	0.473005	0	0.881059	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/modern/chair_modern_style_01.iff	9	-33.153	1.68115	66.1294	-0.288537	0	0.957468	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/modern/chair_modern_style_01.iff	9	-33.5243	1.68115	64.3413	0.995004	0	-0.0998328	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/modern/rug_rect_sml_s01.iff	9	-27.8846	1.63942	49.7479	-0.382683	0	0.92388	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/modern/chair_modern_style_01.iff	9	-28.4241	1.68084	48.6282	0.999996	0	0.002699	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/modern/chair_modern_style_01.iff	9	-26.8729	1.68084	50.3436	0.709002	0	-0.705206	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/modern/chair_modern_style_01.iff	9	-29.0677	1.68084	49.7698	0.705195	0	0.709013	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/modern/chair_modern_style_01.iff	9	-27.9627	1.68084	50.8524	-0.002699	0	0.999996	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/modern/chair_modern_style_01.iff	9	-27.2933	1.68084	49.1531	0.924909	0	-0.380188	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/modern/bar_counter_s1.iff	9	-30.119	1.63942	47.1786	0.953847	0	-0.300293	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/decorative/bottle_fat.iff	9	-30.5639	2.79031	47.013	1	0	0	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/decorative/bottle_pear.iff	9	-30.8537	2.79031	46.7792	1	0	0	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/decorative/bottle_tall.iff	9	-30.7425	2.79031	46.4622	1	0	0	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/decorative/beast_stuffed.iff	9	-29.3874	2.79031	47.669	1	0	0	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/modern/table_modern_style_01.iff	9	-33.7115	1.63974	65.2412	1	0	0	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/modern/table_modern_style_01.iff	9	-38.6059	1.63942	62.6668	1	0	0	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/modern/table_modern_style_01.iff	9	-27.8976	1.63942	49.8531	1	0	0	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/modern/table_modern_style_01.iff	9	-27.4278	1.63942	64.4098	-0.37092	0	0.928665	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/modern/chair_modern_style_01.iff	9	-26.9434	1.68083	65.1909	-0.276356	0	0.961055	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/modern/chair_modern_style_01.iff	9	-28.4446	1.68083	64.1509	0.782143	0	0.623099	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/modern/chair_modern_style_01.iff	9	-27.138	1.68083	63.3227	0.993656	0	-0.112459	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/modern/chair_modern_style_01.iff	9	-28.1988	1.68083	65.328	0.112462	0	0.993656	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/modern/chair_modern_style_01.iff	9	-26.1738	1.68083	64.2103	-0.623099	0	0.782143	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/modern/rug_rect_sml_s01.iff	9	-27.3874	1.63942	64.4793	0.486517	0	0.873671	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/modern/table_modern_style_01.iff	9	-31.632	1.63942	50.481	0	0	1	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/modern/chair_modern_style_01.iff	9	-32.2365	1.68084	51.1812	0.380188	0	0.924909	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/modern/chair_modern_style_01.iff	9	-31.5671	1.68084	49.482	0.999996	0	0.002699	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/modern/chair_modern_style_01.iff	9	-30.4621	1.68084	50.5645	0.709015	0	-0.705193	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/modern/chair_modern_style_01.iff	9	-32.6569	1.68084	49.9908	0.705203	0	0.709006	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/modern/chair_modern_style_01.iff	9	-31.1057	1.68084	51.7061	-0.002699	0	0.999996	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/modern/rug_rect_sml_s01.iff	9	-31.6452	1.63942	50.5865	0.92388	0	0.382683	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/modern/rug_rect_sml_s01.iff	9	-24.0357	1.63942	53.4374	-0.0626573	0	0.998035	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/modern/table_modern_style_01.iff	9	-28.237	1.63942	54.6287	0.92388	0	0.382683	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/modern/chair_modern_style_01.iff	9	-28.3049	1.68084	53.7065	0.999996	0	0.00269926	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/modern/chair_modern_style_01.iff	9	-27.5764	1.68084	55.3818	-0.385176	0	0.922843	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/modern/chair_modern_style_01.iff	9	-29.1237	1.68084	55.3973	0.380186	0	0.92491	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/modern/chair_modern_style_01.iff	9	-27.1657	1.68084	54.2513	0.924905	0	-0.380199	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/modern/chair_modern_style_01.iff	9	-29.4758	1.68084	54.1351	0.922844	0	0.385175	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/modern/rug_rect_sml_s01.iff	9	-28.3021	1.63942	54.5458	-0.707107	0	0.707107	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/modern/table_modern_style_01.iff	9	-24.1108	1.63942	53.5126	0.946042	0	-0.324043	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/modern/chair_modern_style_01.iff	9	-23.6018	1.68084	54.5283	-0.442231	0	0.896901	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/modern/chair_modern_style_01.iff	9	-24.9839	1.68084	52.7294	0.896894	0	0.442245	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/modern/chair_modern_style_01.iff	9	-24.7747	1.68084	54.262	0.321488	0	0.946913	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/modern/chair_modern_style_01.iff	9	-23.7755	1.68084	52.2221	0.946913	0	-0.321489	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/modern/chair_modern_style_01.iff	9	-23.204	1.68084	53.3301	0.751805	0	-0.659386	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/cell/cell.iff	10	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	11	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	12	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/terminal/terminal_bank_floor_on_01.iff	12	-59.2891	2.63942	37.6914	0.92388	0	0.382683	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/lifeday/lifeday_mini_tree.iff	12	-59.1512	6.62461	37.696	1	0	0	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/imperial/data_terminal_s1.iff	12	-47.9289	2.63942	25.617	0.922997	0	0.384808	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/imperial/data_terminal_s1.iff	12	-48.8603	2.63942	26.5438	0.922997	0	0.384808	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	13	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	14	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	15	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	16	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/building/taanab/star_destroyer.iff	0	7748.48	1637.46	7902.84	1	0	0	0		buildoutObjectId|0|0|portalProperty.crc|0|-1433146206|salon|0|1|$|
+object/cell/cell.iff	1	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	2	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	3	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	4	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	5	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	6	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	7	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	8	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	9	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	10	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	11	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	12	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	13	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	14	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	15	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	16	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	17	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	18	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	19	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	20	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	21	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	22	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	23	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	24	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	25	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	26	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	27	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	28	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	29	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	30	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	31	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	32	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	33	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/tangible/door/echo_tower_door.iff	33	-11.0224	175.168	-33.1752	0.707124	0	-0.707089	0	theme_park.stp.door_corvette	buildoutObjectId|0|0|$|
+object/cell/cell.iff	34	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	35	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	36	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/tangible/door/echo_base_door_hangar.iff	36	28	172.085	70	0.707124	0	0	0.707089		buildoutObjectId|0|0|$|
+object/tangible/door/echo_base_door_hangar.iff	36	-28	172.085	70	0.707124	0	0	-0.707089		buildoutObjectId|0|0|$|
+object/tangible/door/echo_base_door_hangar.iff	36	0.353583	166.154	70.085	1	0	0	0		buildoutObjectId|0|0|$|
+object/tangible/door/echo_base_door_hangar.iff	36	-1.78687	194.491	70.1267	0	0	0	1		buildoutObjectId|0|0|$|
+object/cell/cell.iff	37	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	38	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	39	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/tangible/terminal/terminal_elevator_up.iff	39	49.0017	173.835	205.575	-0.707107	0	0.707107	0	systems.elevator.elevator_up	buildoutObjectId|0|0|$|
+object/tangible/terminal/terminal_elevator_down.iff	39	48.9955	192.335	205.595	-0.707107	0	0.707107	0	systems.elevator.elevator_down	buildoutObjectId|0|0|$|
+object/cell/cell.iff	40	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/tangible/terminal/terminal_elevator_down_post_noscript.iff	40	14.2609	170.585	351.76	0	0	1	0	systems.elevator.elevator_down	buildoutObjectId|0|0|$|
+object/tangible/terminal/terminal_elevator_up_post_noscript.iff	40	14.2486	140.585	351.769	0	0	1	0	systems.elevator.elevator_up	buildoutObjectId|0|0|$|
+object/cell/cell.iff	41	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	42	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	43	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	44	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	45	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	46	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	47	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	48	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/tangible/terminal/terminal_elevator_up.iff	48	20.0023	170.585	430.576	0	0	1	0	systems.elevator.elevator_up	buildoutObjectId|0|0|$|
+object/tangible/terminal/terminal_elevator_down.iff	48	20.0065	453.359	430.601	0	0	1	0	systems.elevator.elevator_down	buildoutObjectId|0|0|$|
+object/cell/cell.iff	49	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	50	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	51	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	52	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	53	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	54	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	55	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/tangible/terminal/terminal_elevator_down.iff	55	21.4552	453.609	341.852	-0.707106	0	0.707107	0	systems.elevator.elevator_down	buildoutObjectId|0|0|$|
+object/tangible/terminal/terminal_elevator_up.iff	55	21.447	448.609	341.931	-0.707107	0	0.707107	0	systems.elevator.elevator_up	buildoutObjectId|0|0|$|
+object/cell/cell.iff	56	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/tangible/terminal/terminal_elevator_down.iff	56	-21.184	453.655	344.151	0.211099	0	0.977465	0	systems.elevator.elevator_down	buildoutObjectId|0|0|$|
+object/tangible/terminal/terminal_elevator_up.iff	56	-21.1567	448.609	344.175	0.240323	0	0.970693	0	systems.elevator.elevator_up	buildoutObjectId|0|0|$|
+object/cell/cell.iff	57	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/cell/cell.iff	58	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/building/player/city/diner_no_planet_restriction.iff	0	2533.42	121.906	12691.3	0.707108	0	0.707106	0	systems.crafting.crafting_structure	buildoutObjectId|0|0|portalProperty.crc|0|1393938513|structure.capacity_override|0|150|tcg.static_item_deed|4|item_tcg_loot_reward_series2_diner|$|
+object/cell/cell.iff	1	0	0	0	1	0	0	0	systems.crafting.station_cell	buildoutObjectId|0|0|$|
+object/building/player/player_merchant_tent_style_02.iff	0	2388	32.2681	1834	0.92388	0	-0.382683	0		buildoutObjectId|0|0|force_public|0|1|portalProperty.crc|0|-1028664474|$|
+object/cell/cell.iff	1	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/building/player/player_merchant_tent_style_02.iff	0	2378	32.2681	1832	1	0	0	0		buildoutObjectId|0|0|force_public|0|1|portalProperty.crc|0|-1028664474|$|
+object/cell/cell.iff	1	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/building/player/player_merchant_tent_style_02.iff	0	2368	32.2622	1834	0.923879	0	0.382684	0		buildoutObjectId|0|0|force_public|0|1|portalProperty.crc|0|-1028664474|$|
+object/cell/cell.iff	1	0	0	0	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/structure/tatooine/wall_pristine_tatooine_tall_style_01.iff	0	1510	5	1480	0	0	1	0		buildoutObjectId|0|0|$|
+object/static/structure/tatooine/wall_pristine_tatooine_tall_style_01.iff	0	1510	5	1464	0	0	1	0		buildoutObjectId|0|0|$|
+object/static/structure/tatooine/wall_pristine_tatooine_tall_style_01.iff	0	1542	5	1480	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/structure/tatooine/wall_pristine_tatooine_tall_style_01.iff	0	1542	5	1464	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/vehicle/kash_rodian_shuttle.iff	0	2561	120	12665	0.120503	0	0.992713	0		buildoutObjectId|0|0|$|
+object/static/structure/corellia/corl_imprv_bridge_sm_s01.iff	0	2568.37	120.13	12710.7	0.834981	0	0.550279	0		buildoutObjectId|0|0|$|
+object/static/structure/corellia/corl_imprv_bridge_sm_s01.iff	0	2583.97	120.13	12717.4	-0.550279	0	0.83498	0		buildoutObjectId|0|0|$|
+object/static/structure/corellia/corl_imprv_bridge_sm_s01.iff	0	2599.56	120.13	12724.1	-0.550279	0	0.83498	0		buildoutObjectId|0|0|$|
+object/static/structure/corellia/corl_imprv_bridge_insert_s01.iff	0	2576.17	120.13	12714.1	-0.550279	0	0.83498	0		buildoutObjectId|0|0|$|
+object/static/structure/corellia/corl_imprv_bridge_insert_s01.iff	0	2591.76	120.13	12720.7	-0.550279	0	0.83498	0		buildoutObjectId|0|0|$|
+object/static/structure/general/transport_debris_01.iff	0	2565.03	100.483	12754.5	0.906299	0.261014	0.277901	-0.182389		buildoutObjectId|0|0|$|
+object/static/structure/general/streetlamp_small_style_02.iff	0	2559.3	120	12710.3	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/structure/general/streetlamp_small_style_02.iff	0	2561.93	120	12704.2	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/structure/general/streetlamp_small_style_02.iff	0	2606.19	120	12730.4	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/structure/general/streetlamp_small_style_02.iff	0	2608.79	120	12724.4	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/structure/general/streetlamp_small_style_01_on.iff	0	2630	119.507	12776	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/structure/general/streetlamp_small_style_01_on.iff	0	2630.15	118.284	12778.2	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/structure/general/streetlamp_small_style_01_on.iff	0	2630	116.406	12780	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/structure/general/streetlamp_small_style_01_on.iff	0	2630.03	116.544	12781.4	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/structure/general/streetlamp_small_style_01_on.iff	0	2630	114.486	12786	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/structure/general/streetlamp_small_style_01_on.iff	0	2630	112.598	12792	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/worldbuilding/furniture/cantina_table_1.iff	0	2591.79	120	12732.5	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/worldbuilding/furniture/cantina_table_1.iff	0	2585.9	120	12736.6	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/worldbuilding/furniture/cantina_table_1.iff	0	2590.61	120	12736.5	1	0	0	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/jedi/frn_all_light_chair_s01_hue.iff	0	2586.02	120	12735.3	1	0	0	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/jedi/frn_all_light_chair_s01_hue.iff	0	2587.45	120	12736.8	-0.644827	0	0.764329	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/jedi/frn_all_light_chair_s01_hue.iff	0	2584.51	120	12737.3	0.506221	0	0.862404	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/jedi/frn_all_light_chair_s01_hue.iff	0	2589.61	120	12735.6	0.902611	0	0.430458	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/jedi/frn_all_light_chair_s01_hue.iff	0	2591.72	120	12736.2	0.758363	0	-0.651833	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/jedi/frn_all_light_chair_s01_hue.iff	0	2590.63	120	12737.7	-0.0507746	0	0.99871	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/jedi/frn_all_light_chair_s01_hue.iff	0	2590.5	120	12732.4	0.728272	0	0.685288	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/jedi/frn_all_light_chair_s01_hue.iff	0	2592.58	120	12733.6	-0.380925	0	0.924606	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/jedi/frn_all_light_chair_s01_hue.iff	0	2592.35	120	12731.4	0.953847	0	-0.300293	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/static/item/item_music_microphone_s1.iff	0	2585.98	120.051	12731.2	0.886995	0	0.461779	0		buildoutObjectId|0|0|$|
+object/static/item/item_slave_brazier.iff	0	2586.54	120.051	12731	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/item/item_slave_brazier.iff	0	2585.96	120.051	12731.7	0.970137	0	0.242556	0		buildoutObjectId|0|0|$|
+object/static/item/item_music_omni_box.iff	0	2584.74	120.051	12731.8	0.735087	0	0.677973	0		buildoutObjectId|0|0|$|
+object/static/structure/general/poi_all_construction_stone_pile.iff	0	2566.38	109.306	12762	0.771246	0	-0.636537	0		buildoutObjectId|0|0|$|
+object/static/structure/general/all_sign_shop_s03.iff	0	2592.92	120	12744.4	-0.693111	0	0.720831	0		buildoutObjectId|0|0|$|
+object/static/structure/general/slab_concrete_imperial.iff	0	2588	112.051	12736	0.989506	0	-0.144492	0		buildoutObjectId|0|0|$|
+object/static/structure/general/slab_concrete_imperial.iff	0	2588	104.093	12736	0.989506	0	-0.144492	0		buildoutObjectId|0|0|$|
+object/building/endor/endr_lake_rail8m.iff	0	2582.1	120	12742.3	0.990216	0	-0.139543	0		buildoutObjectId|0|0|$|
+object/building/endor/endr_lake_rail8m.iff	0	2589.5	120	12744.5	0.990216	0	-0.139543	0		buildoutObjectId|0|0|$|
+object/building/endor/endr_lake_rail8m.iff	0	2586.34	120	12727.6	0.990216	0	-0.139543	0		buildoutObjectId|0|0|$|
+object/building/endor/endr_lake_rail8m.iff	0	2593.72	120	12729.7	0.990216	0	-0.139543	0		buildoutObjectId|0|0|$|
+object/building/endor/endr_lake_rail8m.iff	0	2581.59	120	12730.2	0.79886	0	0.601517	0		buildoutObjectId|0|0|$|
+object/building/endor/endr_lake_rail8m.iff	0	2579.47	120	12737.6	0.79886	0	0.601517	0		buildoutObjectId|0|0|$|
+object/static/worldbuilding/furniture/ui_faction_imperial_small.iff	0	2587.63	120.947	12736.5	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/creature/droids_r2_waiter.iff	0	2588.58	120	12739.3	0.194548	0	0.980893	0		buildoutObjectId|0|0|$|
+object/static/structure/naboo/planter_naboo_theed_style_1.iff	0	2557.54	119.996	12712.6	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/structure/naboo/planter_naboo_theed_style_1.iff	0	2562.19	120.495	12701.5	0.9992	0	0.0399893	0		buildoutObjectId|0|0|$|
+object/mobile/aurra_sing_static.iff	0	2601.76	120.037	12730.7	0.019038	0	0.999819	0	player.species_innate:npe.make_invulnerable:theme_park.stp.invuln	buildoutObjectId|0|0|invulnerable|4|1|stp.npc.name|4|Aurra|$|
+object/mobile/azure_cabal_frosch_guard_m_02.iff	0	2602.25	120	12730	0.752061	0	-0.659094	0	systems.combat.credit_for_kills:theme_park.stp.shady	ai.defaultCalmBehavior|0|1|buildoutObjectId|0|0|$|
+object/mobile/aqualish_s02_male.iff	0	2601.23	120	12730	0.956237	0	0.292592	0	systems.combat.credit_for_kills:npe.make_invulnerable:theme_park.stp.shady	ai.defaultCalmBehavior|0|1|buildoutObjectId|0|0|$|
+object/tangible/terminal/terminal_character_builder.iff	0	13241	75	3681	0.707141	0	0.707072	0	terminal.terminal_character_builder	buildoutObjectId|0|0|$|
+object/tangible/terminal/terminal_mission_scout.iff	0	13239	75	3651	1	0	0	0	systems.missions.base.mission_terminal:planet_map.map_loc:planet_map.map_loc_attach	buildoutObjectId|0|0|intScout|0|1|$|
+object/tangible/terminal/terminal_mission.iff	0	13233	75	3651	1	0	0	0	systems.missions.base.mission_terminal:planet_map.map_loc:planet_map.map_loc_attach	buildoutObjectId|0|0|$|
+object/tangible/terminal/terminal_mission_bounty.iff	0	13237	75	3651	1	0	0	0	systems.missions.base.mission_terminal:planet_map.map_loc:planet_map.map_loc_attach	buildoutObjectId|0|0|intBounty|0|1|$|
+object/tangible/terminal/terminal_mission_rebel.iff	0	13235	75	3677	0	0	1	0	systems.missions.base.mission_terminal:planet_map.map_loc:planet_map.map_loc_attach	buildoutObjectId|0|0|faction|4|Rebel|$|
+object/tangible/terminal/terminal_mission_imperial.iff	0	13259	75	3677	0	0	1	0	systems.missions.base.mission_terminal:planet_map.map_loc:planet_map.map_loc_attach	buildoutObjectId|0|0|faction|4|Imperial|$|
+object/tangible/terminal/terminal_mission_entertainer.iff	0	13271	75	3674	0.707137	0	-0.707076	0	systems.missions.base.mission_terminal:planet_map.map_loc:planet_map.map_loc_attach	buildoutObjectId|0|0|intEntertainer|0|1|$|
+object/tangible/terminal/terminal_mission_artisan.iff	0	13271	75	3676	0.707137	0	-0.707076	0	systems.missions.base.mission_terminal:planet_map.map_loc:planet_map.map_loc_attach	buildoutObjectId|0|0|intArtisan|0|1|$|
+object/tangible/terminal/terminal_newsnet.iff	0	13271	75	3672	0.707137	0	-0.707076	0	systems.gcw.newsnet_terminal:systems.gcw.gcw_data_updater	Imperial.controlScore|0|50|Rebel.controlScore|0|50|buildoutObjectId|0|0|$|
+object/mobile/dressed_corvette_neutral_yondalla.iff	0	13260	75	3659	0.928071	0	0.372402	0	systems.combat.credit_for_kills:npe.make_invulnerable:theme_park.stp.commoner	ai.defaultCalmBehavior|0|1|buildoutObjectId|0|0|$|
+object/mobile/dressed_geonosian_commoner_01.iff	0	13261	75	3660	0.15642	0	0.987691	0	systems.combat.credit_for_kills:npe.make_invulnerable:theme_park.stp.commoner	ai.defaultCalmBehavior|0|1|buildoutObjectId|0|0|$|
+object/static/structure/general/empty_pallet.iff	0	13223.5	74.7929	3694.34	-0.0341973	0	0.999415	0		buildoutObjectId|0|0|$|
+object/static/structure/general/old_safe.iff	0	13222.8	74.7942	3695.12	0.977315	0	0.211791	0		buildoutObjectId|0|0|$|
+object/static/item/item_container_armor.iff	0	13324	143	3680	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/item/item_container_energy_liquid.iff	0	13333.4	143	3679.4	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/item/item_container_energy_liquid.iff	0	13333.2	143	3679.11	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/item/item_container_energy_liquid.iff	0	13332.9	143	3679.39	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/item/item_container_energy_liquid.iff	0	13321.4	143	3668.94	0	0	1	0		buildoutObjectId|0|0|$|
+object/static/item/item_container_energy_liquid.iff	0	13321.6	143	3668.66	0	0	1	0		buildoutObjectId|0|0|$|
+object/static/item/item_container_energy_liquid.iff	0	13321.2	143	3668.65	0	0	1	0		buildoutObjectId|0|0|$|
+object/static/item/item_container_organic_food.iff	0	13333.4	143	3679.94	-0.246632	0	0.969109	0		buildoutObjectId|0|0|$|
+object/static/item/item_container_organic_hide.iff	0	13333.9	143	3679.71	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/item/item_items_container_lg.iff	0	13334.4	143	3671.41	0.967663	0	0.252245	0		buildoutObjectId|0|0|$|
+object/static/item/item_items_container_lg.iff	0	13334.2	143	3670.39	0.967663	0	0.252245	0		buildoutObjectId|0|0|$|
+object/static/item/item_items_container_lg.iff	0	13334.4	143	3670.91	0.9992	0	-0.0399899	0		buildoutObjectId|0|0|$|
+object/static/item/item_krix_megaburn_core.iff	0	13322.8	143.527	3687.3	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/item/item_krix_megaburn_core.iff	0	13321.8	143.527	3687.05	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/worldbuilding/terminal/wall_data_terminal_04.iff	0	13319	143	3682	0.70714	0	-0.707073	0		buildoutObjectId|0|0|$|
+object/tangible/terminal/terminal_character_builder.iff	0	13253	75	3681	0.707141	0	-0.707072	0	terminal.terminal_character_builder:player.player_money	buildoutObjectId|0|0|$|
+object/mobile/azure_cabal_greel_smuggler_f_02.iff	0	13313	75	3717	-0.537676	0	0.843151	0	systems.combat.credit_for_kills:npe.make_invulnerable:theme_park.stp.commoner	ai.defaultCalmBehavior|0|1|buildoutObjectId|0|0|$|
+object/mobile/azure_cabal_greel_smuggler_m_01.iff	0	13312	75	3717	0.534032	0	0.845464	0	systems.combat.credit_for_kills:npe.make_invulnerable:theme_park.stp.commoner	ai.defaultCalmBehavior|0|1|buildoutObjectId|0|0|$|
+object/mobile/peacewar_drennic_hunter_m_01.iff	0	13312	75	3715	0.958532	0	0.284984	0	systems.combat.credit_for_kills:npe.make_invulnerable:theme_park.stp.commoner	ai.defaultCalmBehavior|0|1|buildoutObjectId|0|0|$|
+object/building/taanab/filler_block_taanab_32x16_s01.iff	0	13315.7	75	3771.54	0.721386	0	-0.692533	0	structure.filler.filler:theme_park.stp.stp_filler	buildoutObjectId|0|0|$|
+object/building/taanab/filler_slum_24x16_s01.iff	0	13347	74.9993	3747	0.839191	0	0.543837	0	structure.filler.filler:theme_park.stp.stp_filler	buildoutObjectId|0|0|$|
+object/building/taanab/filler_slum_24x16_s02.iff	0	13354.3	75	3771.93	0.9998	0	0.0199993	0	structure.filler.filler:theme_park.stp.stp_filler	buildoutObjectId|0|0|$|
+object/tangible/furniture/tatooine/frn_tato_chair_cafe_style_01.iff	0	13309.3	143.512	3783.93	1	0	0	0		buildoutObjectId|0|0|occupied.limit|0|1|$|
+object/tangible/furniture/tatooine/frn_tato_fruit_stand_large_style_01.iff	0	13311	143	3709.82	0.656217	0	0.754571	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/tatooine/frn_tato_fruit_stand_small_style_01.iff	0	13317	143	3719.89	0.265963	0	0.963983	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/tatooine/frn_tato_meat_rack.iff	0	13330	143	3709.15	1	0	0	0		buildoutObjectId|0|0|$|
+object/tangible/food/spice/spice_muon_gold.iff	0	13309.9	143.512	3785.38	1	0	0	0	item.spice	buildoutObjectId|0|0|spice.name|4|muon_gold|$|
+object/tangible/food/generic/dessert_para_roll.iff	0	13309.8	143.512	3785.31	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/item/item_con_winebottle_01.iff	0	13309.7	143.527	3785.45	1	0	0	0		buildoutObjectId|0|0|$|
+object/building/taanab/bank_taanab.iff	0	13237	74.5551	3588	1	0	0	0	planet_map.map_loc:structure.municipal.bank:theme_park.stp.stp_filler	buildoutObjectId|0|0|$|
+object/tangible/terminal/terminal_mission.iff	0	13241	75	3651	1	0	0	0	systems.missions.base.mission_terminal:planet_map.map_loc:planet_map.map_loc_attach	buildoutObjectId|0|0|$|
+object/tangible/terminal/terminal_mission_scout.iff	0	13235	75	3651	1	0	0	0	systems.missions.base.mission_terminal:planet_map.map_loc:planet_map.map_loc_attach	buildoutObjectId|0|0|intScout|0|1|$|
+object/static/worldbuilding/sign/thm_sign_bank.iff	0	13237.1	77.2772	3646.62	0.707108	0	-0.707106	0	systems.sign.sign:object.sign	buildoutObjectId|0|0|$|
+object/building/taanab/filler_slum_16x16_s01.iff	0	13103	75	3770	0	0	1	0	structure.filler.filler:theme_park.stp.stp_filler	buildoutObjectId|0|0|$|
+object/building/taanab/filler_slum_16x16_s01.iff	0	13103	75	3722	1.89661e-07	0	1	0	structure.filler.filler:theme_park.stp.stp_filler	buildoutObjectId|0|0|$|
+object/building/taanab/filler_slum_24x16_s01.iff	0	13181.9	75	3695.73	0.9998	0	-0.019995	0	structure.filler.filler:theme_park.stp.stp_filler	buildoutObjectId|0|0|$|
+object/building/taanab/filler_slum_16x32_s01.iff	0	13061.5	75.0001	3640.65	0.981048	0	0.193766	0	structure.filler.filler:theme_park.stp.stp_filler	buildoutObjectId|0|0|$|
+object/building/taanab/garage_taanab.iff	0	13336	75.0015	3489	-0.387665	0	0.9218	0	systems.vehicle_system.vehicle_garage:planet_map.map_loc_both	buildoutObjectId|0|0|$|
+object/static/structure/corellia/corl_imprv_arch_sm_s01.iff	0	13254.9	75	3882.22	0.781892	0	-0.623414	0		buildoutObjectId|0|0|$|
+object/static/structure/general/old_safe.iff	0	13140.6	143	3532.64	-0.0890854	0	0.996024	0		buildoutObjectId|0|0|$|
+object/static/structure/general/small_map_with_x.iff	0	13137.3	144.268	3535.93	0	0	1	0		buildoutObjectId|0|0|$|
+object/factory/factory_crate_armor.iff	0	13149	143	3545.17	0.994493	0	0.104807	0		buildoutObjectId|0|0|$|
+object/factory/factory_crate_chemicals.iff	0	13148.4	143	3545.21	0.956802	0	-0.290739	0		buildoutObjectId|0|0|$|
+object/factory/factory_crate_electronics.iff	0	13148.6	143	3544.49	0.998201	0	0.059964	0		buildoutObjectId|0|0|$|
+object/factory/factory_crate_weapon.iff	0	13147.8	143.385	3544.78	0.992809	0	-0.119712	0		buildoutObjectId|0|0|$|
+object/factory/factory_crate_installation.iff	0	13147.8	143	3544.75	0.997189	0	-0.0749296	0		buildoutObjectId|0|0|$|
+object/static/worldbuilding/terminal/floor_imperial_01.iff	0	13158.3	143	3545.12	0	0	1	0		buildoutObjectId|0|0|$|
+object/building/taanab/filler_historic_32x16_s01.iff	0	13337.6	75	3796.91	0.86281	0	-0.505529	0	structure.filler.filler:theme_park.stp.stp_filler	buildoutObjectId|0|0|$|
+object/static/space/ship/corellian_corvette.iff	0	12184.4	900.461	4270.05	0.435682	0	0.9001	0		buildoutObjectId|0|0|$|
+object/building/taanab/filler_slum_16x32_s02.iff	0	13039.1	75	3687.47	0.714422	0	0.699715	0	structure.filler.filler:theme_park.stp.stp_filler	buildoutObjectId|0|0|$|
+object/building/taanab/filler_slum_16x32_s02.iff	0	13039.4	75	3673.15	-0.696135	0	0.717911	0	structure.filler.filler:theme_park.stp.stp_filler	buildoutObjectId|0|0|$|
+object/building/taanab/filler_slum_16x32_s01.iff	0	12983.3	74.9999	3607.99	0.691962	0	0.721933	0	structure.filler.filler:theme_park.stp.stp_filler	buildoutObjectId|0|0|$|
+object/static/vehicle/static_rattletrap.iff	0	13336	72.3331	3500	-0.387667	0	0.921799	0		buildoutObjectId|0|0|$|
+object/building/player/city/garden_corellia_sml_04.iff	0	13312.1	75	3802.68	1	0	0	0		buildoutObjectId|0|0|$|
+object/building/player/city/garden_corellia_sml_05.iff	0	13334.1	74.7554	3771.29	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/worldbuilding/vehicles/lambda_shuttle_static_destroyed.iff	0	13102.9	81.9861	3864.86	-0.381213	0	0.924488	0		buildoutObjectId|0|0|$|
+object/tangible/sign/player/house_address.iff	0	13218.1	77.8931	3690.88	0.92388	0	-0.382683	0	systems.sign.sign:theme_park.stp.stp_sign	buildoutObjectId|0|0|stp.sign.name|4|Starport Master's Office|$|
+object/building/general/hotel_general_style_1.iff	0	13312.6	75	3574.59	1	0	0	0	planet_map.map_loc	buildoutObjectId|0|0|healing.canhealshock|0|1|safeLogout|0|1|$|
+object/static/item/item_nemodian_bird_cage.iff	0	13259.1	76.4167	3563.43	0.99995	0	0	0.00999955		buildoutObjectId|0|0|$|
+object/static/item/wp_mle_lance_staff_metal_s01.iff	0	13258	76.611	3563.44	0.828149	0	0	-0.560508		buildoutObjectId|0|0|$|
+object/static/item/item_con_ration_kit_lg.iff	0	13259.1	76.5009	3563.44	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/structure/general/empty_pallet.iff	0	13263.8	76.5098	3563.57	0.959662	0	-0.281157	0		buildoutObjectId|0|0|$|
+object/static/structure/general/empty_pallett.iff	0	13262	76.5159	3562.48	0.959662	0	-0.281157	0		buildoutObjectId|0|0|$|
+object/static/structure/general/locked_container.iff	0	13263.9	2.0311	3563.65	0.959662	0	-0.281157	0		buildoutObjectId|0|0|$|
+object/static/item/item_container_inorganic_minerals.iff	0	13261.7	76.5098	3562.02	0.959662	0	-0.281157	0		buildoutObjectId|0|0|$|
+object/static/item/item_container_inorganic_minerals.iff	0	13262.4	76.5098	3562.57	0.959662	0	-0.281157	0		buildoutObjectId|0|0|$|
+object/static/item/item_container_organic_food.iff	0	13263.5	76.6441	3564.03	0.959662	0	-0.281157	0		buildoutObjectId|0|0|$|
+object/static/item/item_container_organic_food.iff	0	13263.3	76.5098	3564.3	0.959662	0	-0.281157	0		buildoutObjectId|0|0|$|
+object/static/item/item_container_organic_structure.iff	0	13263.2	76.5098	3563.09	0.959662	0	-0.281157	0		buildoutObjectId|0|0|$|
+object/static/item/item_container_weapon.iff	0	13262	77.2007	3562.22	0.998488	0	0.0549723	0		buildoutObjectId|0|0|$|
+object/static/flora/flora_plant_tato_falotil.iff	0	13092.1	74.9999	3751.18	0.333122	0	0.942884	0		buildoutObjectId|0|0|$|
+object/static/flora/flora_plant_tato_falotil.iff	0	13092	75	3740.98	0.996336	0	-0.0855235	0		buildoutObjectId|0|0|$|
+object/static/flora/flora_plant_tato_falotil.iff	0	13079.2	75	3751.1	-0.123076	0	0.992397	0		buildoutObjectId|0|0|$|
+object/static/flora/flora_plant_tato_falotil.iff	0	13085.1	75	3740.94	0.909072	0	-0.41664	0		buildoutObjectId|0|0|$|
+object/static/flora/flora_plant_tato_falotil.iff	0	13078.1	75	3740.94	0.852015	0	-0.523518	0		buildoutObjectId|0|0|$|
+object/tangible/door/echo_base_door_small.iff	0	13109.4	75.5586	3725.28	0.707108	0	-0.707106	0		buildoutObjectId|0|0|$|
+object/tangible/door/som_droid_factory_door.iff	0	13109.4	75.2809	3720.35	0.707135	0	-0.707078	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/city/flag_city_05.iff	0	13095	81	3746	0.707135	0	-0.707078	0	systems.city.city_furniture:systems.city.city_flag:theme_park.stp.stp_sign	buildoutObjectId|0|0|stp.sign.name|4|a banner|$|
+object/tangible/furniture/city/flag_city_05.iff	0	13095	82	3735	0.70714	0	-0.707073	0	systems.city.city_furniture:systems.city.city_flag:theme_park.stp.stp_sign	buildoutObjectId|0|0|stp.sign.name|4|a banner|$|
+object/tangible/furniture/city/flag_city_05.iff	0	13095	82	3757	0.707138	0	-0.707075	0	systems.city.city_furniture:systems.city.city_flag:theme_park.stp.stp_sign	buildoutObjectId|0|0|stp.sign.name|4|a banner|$|
+object/building/endor/endor_lake_platform.iff	0	11774	1	4619	1	0	0	0	structure.filler.filler:theme_park.stp.stp_filler	buildoutObjectId|0|0|$|
+object/building/endor/endor_lake_platform.iff	0	11774	1	4634.92	1	0	0	0	structure.filler.filler:theme_park.stp.stp_filler	buildoutObjectId|0|0|$|
+object/building/endor/endor_lake_platform_cap.iff	0	11774	-9.81289	4609	1	0	0	0	structure.filler.filler:theme_park.stp.stp_filler	buildoutObjectId|0|0|$|
+object/building/endor/endor_lake_platform_cap.iff	0	11774	-9.41972	4611	1	0	0	0	structure.filler.filler:theme_park.stp.stp_filler	buildoutObjectId|0|0|$|
+object/building/endor/endr_lake_rail16m.iff	0	11766.2	1.2	4618.93	0.707135	0	-0.707078	0		buildoutObjectId|0|0|$|
+object/building/endor/endr_lake_rail16m.iff	0	11766.2	1.2	4634.89	0.707105	0	0.707108	0		buildoutObjectId|0|0|$|
+object/building/endor/endr_lake_rail16m.iff	0	11781.8	1.2	4634.93	0.707105	0	0.707108	0		buildoutObjectId|0|0|$|
+object/building/endor/endr_lake_rail16m.iff	0	11781.8	1.2	4618.97	0.707138	0	-0.707075	0		buildoutObjectId|0|0|$|
+object/building/poi/generic_flatten_medium.iff	0	11772.5	0	4558.63	1	0	0	0		buildoutObjectId|0|0|$|
+object/building/kashyyyk/mun_kash_shuttlepost_s01.iff	0	11761	9.88426	4552.63	0.986418	0	0.164252	0		buildoutObjectId|0|0|$|
+object/building/kashyyyk/mun_kash_myyydril_hut.iff	0	11780.2	17.0862	4599.84	0.301053	0	0.953608	0		buildoutObjectId|0|0|$|
+object/building/kashyyyk/mun_kash_imprv_streetlamp_s01.iff	0	11759.4	14.1248	4548.45	0.961056	0	-0.276355	0		buildoutObjectId|0|0|$|
+object/building/kashyyyk/poi_tree_mound.iff	0	11793.5	-2.02356	5058.95	1	0	0	0		buildoutObjectId|0|0|$|
+object/building/kashyyyk/poi_tree_mound.iff	0	11955.5	-13.7686	4850.2	1	0	0	0		buildoutObjectId|0|0|$|
+object/building/kashyyyk/mun_kash_elder_hut.iff	0	11785.9	9.88426	4563.47	0.935897	0	-0.352274	0		buildoutObjectId|0|0|$|
+object/building/kashyyyk/frn_kash_bar.iff	0	11786	11.3292	4563.35	0.92388	0	-0.382683	0		buildoutObjectId|0|0|$|
+object/building/kashyyyk/frn_kash_bar_shelf_s01.iff	0	11785.8	11.3292	4557.03	1	0	0	0		buildoutObjectId|0|0|$|
+object/building/kashyyyk/frn_kash_bar_shelf_s01.iff	0	11781.9	11.3292	4558.76	0.92388	0	0.382683	0		buildoutObjectId|0|0|$|
+object/building/kashyyyk/frn_kash_bar_table_sm_s01.iff	0	11785.6	11.3292	4568.9	1	0	0	0		buildoutObjectId|0|0|$|
+object/building/kashyyyk/frn_kash_bar_table_sm_s01.iff	0	11788.9	11.3292	4567.69	1	0	0	0		buildoutObjectId|0|0|$|
+object/building/kashyyyk/frn_kash_bar_table_sm_s01.iff	0	11780.4	11.3292	4562.23	1	0	0	0		buildoutObjectId|0|0|$|
+object/building/kashyyyk/frn_kash_bar_table_sm_s01.iff	0	11790.8	11.3292	4564.1	1	0	0	0		buildoutObjectId|0|0|$|
+object/building/kashyyyk/frn_centerpiece_wookiee_ceremonial.iff	0	11786.4	11.3292	4557.17	1	0	0	0		buildoutObjectId|0|0|$|
+object/building/kashyyyk/frn_kash_wookiee_loom.iff	0	11786.7	9.88426	4555.07	0.165038	0	0.986287	0		buildoutObjectId|0|0|$|
+object/building/kashyyyk/frn_kash_wookiee_loom.iff	0	11788.7	9.88426	4554.9	-0.294759	0	0.955571	0		buildoutObjectId|0|0|$|
+object/building/taanab/filler_block_taanab_64x32_s01.iff	0	13568	73.6218	3694	-0.707049	0.00908903	0.707063	0.00782809	structure.filler.filler:theme_park.stp.stp_filler	buildoutObjectId|0|0|$|
+object/building/taanab/filler_block_taanab_64x32_s02.iff	0	13534	74.3216	3694	-0.707087	0.00535934	0.707091	0.00463916	structure.filler.filler:theme_park.stp.stp_filler	buildoutObjectId|0|0|$|
+object/building/taanab/filler_building_taanab_style_02.iff	0	13395.9	74.1462	3763.75	0.956802	0	0.29074	0	structure.filler.filler:theme_park.stp.stp_filler	buildoutObjectId|0|0|$|
+object/building/taanab/filler_building_taanab_style_03.iff	0	13415	74.9601	3821.01	0.707386	0	-0.706827	0	structure.filler.filler:theme_park.stp.stp_filler	buildoutObjectId|0|0|$|
+object/building/taanab/filler_building_taanab_style_05.iff	0	13356.9	74.9724	3819.5	0.966393	0	0.257071	0	structure.filler.filler:theme_park.stp.stp_filler	buildoutObjectId|0|0|$|
+object/building/taanab/filler_historic_32x16_s01.iff	0	13454.4	74.9421	3766.41	0.707131	0	-0.707082	0	structure.filler.filler:theme_park.stp.stp_filler	buildoutObjectId|0|0|$|
+object/building/taanab/filler_historic_32x16_s02.iff	0	13484	74.0529	3870.75	1	0	0	0	structure.filler.filler:theme_park.stp.stp_filler	buildoutObjectId|0|0|$|
+object/building/taanab/filler_block_taanab_64x32_s02.iff	0	13436.5	74.9569	3569.73	0.756136	0	0.654414	0	structure.filler.filler:theme_park.stp.stp_filler	buildoutObjectId|0|0|$|
+object/building/taanab/filler_block_taanab_64x32_s02.iff	0	13438.9	74.9289	3873.05	-0.0241907	0	0.999707	0	structure.filler.filler:theme_park.stp.stp_filler	buildoutObjectId|0|0|$|
+object/building/taanab/filler_block_taanab_32x16_s01.iff	0	13454.3	74.7408	3841.65	1	0	0	0	structure.filler.filler:theme_park.stp.stp_filler	buildoutObjectId|0|0|$|
+object/building/taanab/filler_building_taanab_style_02.iff	0	13436.7	74.194	3911.34	0.999888	0	-0.0149993	0	structure.filler.filler:theme_park.stp.stp_filler	buildoutObjectId|0|0|$|
+object/building/taanab/filler_building_taanab_style_05.iff	0	13374.6	74.9489	3864.15	0.966393	0	0.257071	0	structure.filler.filler:theme_park.stp.stp_filler	buildoutObjectId|0|0|$|
+object/building/taanab/filler_historic_32x16_s01.iff	0	13383.3	74.7608	3905.24	0.919103	0	0.394017	0	structure.filler.filler:theme_park.stp.stp_filler	buildoutObjectId|0|0|$|
+object/building/taanab/filler_block_taanab_32x16_s01.iff	0	13454.8	74.882	3800.06	1	0	0	0	structure.filler.filler:theme_park.stp.stp_filler	buildoutObjectId|0|0|$|
+object/building/taanab/filler_historic_32x16_s01.iff	0	13312.3	74.993	3868.49	-0.108985	0	0.994043	0	structure.filler.filler:theme_park.stp.stp_filler	buildoutObjectId|0|0|$|
+object/building/taanab/filler_historic_32x16_s02.iff	0	13340.4	74.9341	3882.77	0.860269	0	-0.509841	0	structure.filler.filler:theme_park.stp.stp_filler	buildoutObjectId|0|0|$|
+object/building/taanab/filler_block_taanab_32x16_s01.iff	0	13354.2	74.9423	3909.08	0.942755	0	-0.333486	0	structure.filler.filler:theme_park.stp.stp_filler	buildoutObjectId|0|0|$|
+object/tangible/terminal/terminal_elevator_down_click.iff	0	13077.6	74.6651	3450.7	1	0	0	0	npe.elevator_down	buildoutObjectId|0|0|$|
+object/tangible/terminal/terminal_elevator_down_click.iff	0	13083.6	74.7122	3454.28	1	0	0	0	npe.elevator_down	buildoutObjectId|0|0|$|
+object/building/taanab/filler_slum_16x16_s01.iff	0	13007	74.8313	3650.88	-0.0142031	0	0.999899	0	structure.filler.filler:theme_park.stp.stp_filler	buildoutObjectId|0|0|$|
+object/building/taanab/filler_slum_16x32_s01.iff	0	12964.3	74.8117	3637.78	1	0	0	0	structure.filler.filler:theme_park.stp.stp_filler	buildoutObjectId|0|0|$|
+object/building/military/military_base_gate_house_imperial.iff	0	12978	74.9237	3799	0	0	1	0		buildoutObjectId|0|0|$|
+object/building/military/military_outpost_guard_tower_1.iff	0	13018	74.9348	3865	0	0	1	0		buildoutObjectId|0|0|$|
+object/building/military/military_base_gate_house_imperial.iff	0	12998	74.6647	3799	0	0	1	0		buildoutObjectId|0|0|$|
+object/building/military/military_outpost_guard_tower_1.iff	0	13018	74.7787	3824	0	0	1	0		buildoutObjectId|0|0|$|
+object/building/taanab/filler_slum_16x32_s02.iff	0	12995.2	74.9564	3686.35	0.71445	0	0.699687	0	structure.filler.filler:theme_park.stp.stp_filler	buildoutObjectId|0|0|$|
+object/building/taanab/filler_slum_16x32_s02.iff	0	12995.5	74.9687	3672.04	-0.696135	0	0.717911	0	structure.filler.filler:theme_park.stp.stp_filler	buildoutObjectId|0|0|$|
+object/building/taanab/filler_slum_16x32_s02.iff	0	12947.7	74.8255	3684.84	0.71445	0	0.699687	0	structure.filler.filler:theme_park.stp.stp_filler	buildoutObjectId|0|0|$|
+object/building/taanab/filler_slum_16x32_s02.iff	0	12948	74.848	3670.52	-0.696135	0	0.717911	0	structure.filler.filler:theme_park.stp.stp_filler	buildoutObjectId|0|0|$|
+object/building/taanab/filler_slum_16x16_s01.iff	0	13031.9	74.9778	3652.58	0.99995	0	0.0100003	0	structure.filler.filler:theme_park.stp.stp_filler	buildoutObjectId|0|0|$|
+object/building/taanab/filler_slum_16x16_s01.iff	0	13005.8	74.9825	3633.63	-0.014203	0	0.999899	0	structure.filler.filler:theme_park.stp.stp_filler	buildoutObjectId|0|0|$|
+object/building/taanab/filler_slum_16x16_s01.iff	0	13031	74.9923	3633.3	0.99995	0	0.01	0	structure.filler.filler:theme_park.stp.stp_filler	buildoutObjectId|0|0|$|
+object/static/structure/corellia/corl_imprv_column_s02.iff	0	13536.8	75.6789	3702.53	0.999824	-0.00885002	-0.0149968	-0.00704197		buildoutObjectId|0|0|$|
+object/static/structure/corellia/corl_imprv_wall_4x32_s01.iff	0	13553	74.8242	3703.79	0.998988	0	-0.0449833	0		buildoutObjectId|0|0|$|
+object/static/structure/corellia/corl_imprv_column_s02.iff	0	13569.1	74.9025	3705.13	0.999824	-0.00885002	-0.0149968	-0.00704197		buildoutObjectId|0|0|$|
+object/static/structure/corellia/corl_imprv_wall_4x32_s01.iff	0	13580.7	74.9304	3716.19	0.92491	0	-0.380186	0		buildoutObjectId|0|0|$|
+object/static/structure/corellia/corl_imprv_column_s02.iff	0	13592.2	74.353	3727.61	0.917062	-0.0108784	-0.398583	-0.00309415		buildoutObjectId|0|0|$|
+object/static/structure/corellia/corl_imprv_wall_4x32_s01.iff	0	13589	74.9945	3743.1	-0.62161	0	0.783326	0		buildoutObjectId|0|0|$|
+object/static/structure/corellia/corl_imprv_column_s02.iff	0	13585	74.9998	3758.92	-0.471298	0.0104482	0.881901	-0.0043297		buildoutObjectId|0|0|$|
+object/static/structure/corellia/corl_imprv_wall_4x32_s01.iff	0	13574	75	3771.07	0.918474	0	0.395482	0		buildoutObjectId|0|0|$|
+object/static/structure/corellia/corl_imprv_column_s02.iff	0	13563	75	3782.96	0.684662	-0.000758324	0.728771	-0.0112842		buildoutObjectId|0|0|$|
+object/static/structure/corellia/corl_imprv_wall_4x32_s01.iff	0	13564.1	75	3799.29	0.728275	0	-0.685285	0		buildoutObjectId|0|0|$|
+object/static/structure/corellia/corl_imprv_column_s02.iff	0	13564.8	75	3815.61	0.684662	-0.000758	0.728771	-0.011284		buildoutObjectId|0|0|$|
+object/static/structure/corellia/corl_imprv_column_s02.iff	0	13554.3	75	3842.61	0.840988	-0.00347236	0.540936	-0.0107631		buildoutObjectId|0|0|$|
+object/static/structure/corellia/corl_imprv_wall_4x32_s01.iff	0	13551.7	75	3858.7	-0.648648	0	0.761088	0		buildoutObjectId|0|0|$|
+object/static/structure/corellia/corl_imprv_column_s02.iff	0	13549	75	3874.99	0.840988	-0.003472	0.540936	-0.010763		buildoutObjectId|0|0|$|
+object/static/structure/corellia/corl_imprv_wall_4x32_s01.iff	0	13536.9	75	3885.15	-0.338956	0	0.940802	0		buildoutObjectId|0|0|$|
+object/static/structure/corellia/corl_imprv_column_s02.iff	0	13465.2	76.4942	3928.74	0.985252	-0.00738959	0.170738	-0.00856104		buildoutObjectId|0|0|$|
+object/static/structure/corellia/corl_imprv_column_s02.iff	0	13432.3	75.4942	3932.42	0.997375	-0.00820776	0.071524	-0.00778046		buildoutObjectId|0|0|$|
+object/static/structure/corellia/corl_imprv_column_s02.iff	0	13399.5	75.4948	3934.52	0.998851	-0.00839992	0.0465699	-0.00757239		buildoutObjectId|0|0|$|
+object/static/structure/corellia/corl_imprv_wall_4x32_s01.iff	0	13344.3	75	3947.07	0.0491732	0	0.99879	0		buildoutObjectId|0|0|$|
+object/static/structure/corellia/corl_imprv_column_s02.iff	0	13328.7	75	3945.67	0.999846	-0.00883888	-0.013409	-0.00705508		buildoutObjectId|0|0|$|
+object/static/structure/corellia/corl_imprv_wall_4x32_s01.iff	0	13265.7	75	3898.02	0.425208	0	0.905095	0		buildoutObjectId|0|0|$|
+object/static/structure/corellia/corl_imprv_column_s02.iff	0	13275.5	75	3909.84	0.944871	-0.0106101	-0.327246	-0.00391691		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	5482.68	33.1108	12448.2	0.662541	0.479592	0.391302	-0.4218		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	5475.47	33.2259	12422.6	-0.0213174	0.0841723	0.723648	-0.684686		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	5483.21	33.1133	12422.3	0.333308	0.034949	0.732359	-0.592736		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	5496.4	34.3159	12446.2	0.117391	0.906863	-0.0496749	-0.401686		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	5474.67	33.8607	12452.7	-0.0172107	0.059038	-0.616149	0.785225		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	5476.39	32.4994	12441.8	-0.0172107	0.059038	-0.616149	0.785225		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	5484.78	32.762	12435.7	0.60775	0.521598	-0.333258	0.497509		buildoutObjectId|0|0|$|
+object/building/general/hotel_general_style_1.iff	0	13232.6	75	3521.5	1	0	0	0	planet_map.map_loc	buildoutObjectId|0|0|healing.canhealshock|0|1|safeLogout|0|1|$|
+object/building/taanab/filler_block_taanab_64x32_s02.iff	0	13491.2	74.8039	3592.9	-0.504841	0	0.863212	0	structure.filler.filler	buildoutObjectId|0|0|$|
+object/tangible/furniture/tatooine/frn_tato_fruit_stand_large_style_01.iff	0	13327.7	75	3519.71	0.923879	0	0.382684	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/modern/bar_piece_straight_s1.iff	0	13319	75	3529	-1e-06	0	1	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/modern/bar_piece_straight_s1.iff	0	13319	75	3525	0.707105	0	0.707108	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/modern/bar_piece_straight_s1.iff	0	13323	75	3525	1	0	0	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/modern/bar_piece_straight_s1.iff	0	13323	75	3529	-0.707107	0	0.707107	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/tatooine/frn_tato_fruit_stand_large_style_01.iff	0	13314.3	75	3519.71	0.92389	0	-0.382657	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/tatooine/frn_tato_fruit_stand_large_style_01.iff	0	13315.7	75	3518.29	0.382661	0	0.923889	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/tatooine/frn_tato_fruit_stand_large_style_01.iff	0	13326.3	75	3518.29	-0.382685	0	0.923879	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/tatooine/frn_tato_fruit_stand_large_style_01.iff	0	13315.7	75	3535.71	0.92387	0	0.382706	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/tatooine/frn_tato_fruit_stand_large_style_01.iff	0	13314.3	75	3534.29	-0.382708	0	0.923869	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/tatooine/frn_tato_fruit_stand_large_style_01.iff	0	13327.7	75	3534.29	0.382683	0	0.92388	0		buildoutObjectId|0|0|$|
+object/tangible/furniture/tatooine/frn_tato_fruit_stand_large_style_01.iff	0	13326.3	75	3535.71	0.923881	0	-0.38268	0		buildoutObjectId|0|0|$|
+object/static/structure/general/old_safe.iff	0	13321.6	75	3529.38	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/structure/general/old_safe.iff	0	13322.4	75	3529.38	1	0	0	0		buildoutObjectId|0|0|$|
+object/mobile/dressed_commoner_fat_human_female_01.iff	0	13231	75	3618.83	0.811722	0	-0.584044	0	systems.combat.credit_for_kills:theme_park.stp.commoner	ai.defaultCalmBehavior|0|1|buildoutObjectId|0|0|$|
+object/mobile/dressed_commoner_artisan_sullustan_male_01.iff	0	13229.3	75	3619.06	0.737649	0	0.675184	0	systems.combat.credit_for_kills:theme_park.stp.commoner	ai.defaultCalmBehavior|0|1|buildoutObjectId|0|0|$|
+object/mobile/dressed_commando_trainer_human_male_01.iff	0	13226.3	75	3619.56	0.876146	0	-0.482045	0	systems.combat.credit_for_kills:theme_park.stp.commoner	ai.defaultCalmBehavior|0|1|buildoutObjectId|0|0|$|
+object/mobile/dressed_commoner_naboo_bothan_female_02.iff	0	13225.1	75	3619.76	0.798709	0	0.601717	0	systems.combat.credit_for_kills:theme_park.stp.commoner	ai.defaultCalmBehavior|0|1|buildoutObjectId|0|0|$|
+object/mobile/dressed_commoner_naboo_human_female_02.iff	0	13225.7	75	3620.27	-0.23748	0	0.971392	0	systems.combat.credit_for_kills:theme_park.stp.commoner	ai.defaultCalmBehavior|0|1|buildoutObjectId|0|0|$|
+object/mobile/dressed_commoner_naboo_human_male_07.iff	0	13176.1	75	3624.53	-0.583307	0	0.812252	0	systems.combat.credit_for_kills:theme_park.stp.commoner	ai.defaultCalmBehavior|0|1|buildoutObjectId|0|0|$|
+object/mobile/dressed_commoner_naboo_moncal_female_01.iff	0	13175.8	75	3622.97	0.968659	0	-0.248393	0	systems.combat.credit_for_kills:theme_park.stp.commoner	ai.defaultCalmBehavior|0|1|buildoutObjectId|0|0|$|
+object/mobile/dressed_commoner_naboo_twilek_female_02.iff	0	13174.6	75	3625.28	0.288333	0	0.95753	0	systems.combat.credit_for_kills:theme_park.stp.commoner	ai.defaultCalmBehavior|0|1|buildoutObjectId|0|0|$|
+object/mobile/dressed_commoner_naboo_moncal_female_02.iff	0	13174.5	75	3623.45	0.94078	0	0.339019	0	systems.combat.credit_for_kills:theme_park.stp.commoner	ai.defaultCalmBehavior|0|1|buildoutObjectId|0|0|$|
+object/tangible/sign/player/pgc_sign_hanging.iff	0	13292.7	77.3894	3561.94	0.707131	0	0.707082	0	systems.sign.sign:theme_park.stp.stp_sign	buildoutObjectId|0|0|stp.sign.name|4|Wendle's Petting Zoo|$|
+object/mobile/dressed_chef_trainer_devaronian_male_01.iff	0	13312.3	75	3520.59	0.504374	0	0.863485	0	systems.combat.credit_for_kills:theme_park.stp.commoner	ai.defaultCalmBehavior|0|1|buildoutObjectId|0|0|$|
+object/mobile/dressed_commoner_fat_zabrak_female_01.iff	0	13312.5	75	3534.17	0.75645	0	0.654051	0	systems.combat.credit_for_kills:theme_park.stp.commoner	ai.defaultCalmBehavior|0|1|buildoutObjectId|0|0|$|
+object/mobile/dressed_commoner_tatooine_bith_male_05.iff	0	13312.8	75	3533.23	0.941104	0	0.338117	0	systems.combat.credit_for_kills:theme_park.stp.commoner	ai.defaultCalmBehavior|0|1|buildoutObjectId|0|0|$|
+object/mobile/dressed_coraline_dynes.iff	0	13317.5	75	3527.38	0.58046	0	0.814289	0	systems.combat.credit_for_kills:theme_park.stp.commoner	ai.defaultCalmBehavior|0|1|buildoutObjectId|0|0|$|
+object/mobile/dressed_fancy_human_female.iff	0	13322.1	75	3523.74	0.998857	0	0.0477879	0	systems.combat.credit_for_kills:theme_park.stp.commoner	ai.defaultCalmBehavior|0|1|buildoutObjectId|0|0|$|
+object/mobile/dressed_herder_f_01.iff	0	13311.8	75	3561.82	-0.600843	0	0.799367	0	systems.combat.credit_for_kills:theme_park.stp.commoner	ai.defaultCalmBehavior|0|1|buildoutObjectId|0|0|$|
+object/tangible/sign/player/shop_sign_s03.iff	0	13278	75	3514	-0.707107	0	0.707107	0	systems.sign.sign:theme_park.stp.stp_sign	buildoutObjectId|0|0|stp.sign.name|4|Wendle's Casino|$|
+object/static/item/item_hoth_floor_light.iff	0	13278	75	3516	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/item/item_hoth_floor_light.iff	0	13278	75	3512	0	0	1	0		buildoutObjectId|0|0|$|
+object/static/particle/pt_light_streetlamp_gold.iff	0	13278	72.236	3514	1	0	0	0		buildoutObjectId|0|0|$|
+object/mobile/dressed_valarian_thug_gotal.iff	0	13014.7	74.9868	3648.84	0.83686	0	0.547417	0	systems.combat.credit_for_kills:theme_park.stp.shady	ai.defaultCalmBehavior|0|1|buildoutObjectId|0|0|$|
+object/mobile/dressed_valarian_thug_arcona.iff	0	13014.7	74.9871	3636.06	0.1629	0	0.986643	0	systems.combat.credit_for_kills:theme_park.stp.shady	ai.defaultCalmBehavior|0|1|buildoutObjectId|0|0|$|
+object/mobile/dressed_valarian_thug_naut.iff	0	13014.5	74.9868	3633.93	0.976621	0	0.214967	0	systems.combat.credit_for_kills:theme_park.stp.shady	ai.defaultCalmBehavior|0|1|buildoutObjectId|0|0|$|
+object/mobile/dressed_valarian_thug_weequay.iff	0	12981.9	74.9575	3637.97	0.944987	0	-0.327107	0	systems.combat.credit_for_kills:theme_park.stp.shady	ai.defaultCalmBehavior|0|1|buildoutObjectId|0|0|$|
+object/mobile/dressed_velocity_chiss_m_01.iff	0	13016.1	74.9874	3634.37	0.745736	0	-0.666241	0	systems.combat.credit_for_kills:theme_park.stp.shady	ai.defaultCalmBehavior|0|1|buildoutObjectId|0|0|$|
+object/mobile/dressed_unarmed_trainer_01.iff	0	12980.7	74.9565	3639.47	0.353133	0	0.935573	0	systems.combat.credit_for_kills:theme_park.stp.shady	ai.defaultCalmBehavior|0|1|buildoutObjectId|0|0|$|
+object/mobile/emperor_royal_guard.iff	0	13370.6	75	3599.77	0.989976	0	-0.141234	0	systems.combat.credit_for_kills:player.species_innate	buildoutObjectId|0|0|invulnerable|4|1|$|
+object/mobile/emperor_royal_guard.iff	0	13379.1	75	3600.13	0.990122	0	-0.140208	0	systems.combat.credit_for_kills:player.species_innate	buildoutObjectId|0|0|invulnerable|4|1|$|
+object/mobile/dressed_scout_trainer_03.iff	0	13316	75	3576	-0.298512	0	0.954405	0	systems.combat.credit_for_kills:theme_park.stp.commoner	ai.defaultCalmBehavior|0|1|buildoutObjectId|0|0|$|
+object/building/taanab/filler_historic_32x16_s02.iff	0	13515	73.8027	3884.46	0.382683	0	0.92388	0	structure.filler.filler	buildoutObjectId|0|0|$|
+object/mobile/dressed_selonian_m_01.iff	0	13329.9	75	3704.24	0.89031	0	-0.455354	0	systems.combat.credit_for_kills:theme_park.stp.commoner	ai.defaultCalmBehavior|0|1|buildoutObjectId|0|0|$|
+object/tangible/sign/municipal/municipal_sign_hanging_commerce.iff	0	13221.8	77	3453.93	0.707116	0	0.707097	0	systems.sign.sign:theme_park.stp.stp_sign	buildoutObjectId|0|0|stp.sign.name|4|Wendle's Private Residence|$|
+object/tangible/door/echo_base_door_large.iff	0	13376.4	73.7034	3664.85	0	0	1	0		buildoutObjectId|0|0|$|
+object/tangible/terminal/terminal_command_console.iff	0	12508.6	34.5128	4131.46	1	0	0	0	theme_park.stp.terminal_transport_corvette	buildoutObjectId|0|0|$|
+object/tangible/terminal/terminal_command_console.iff	0	13276	75	3810	0.926199	0	-0.377034	0	theme_park.stp.stp_sign:theme_park.stp.terminal_transport_corvette	buildoutObjectId|0|0|stp.sign.name|4|Departure Terminal|$|
+object/mobile/dressed_rsf_pilot.iff	0	13267	75	3803.03	-0.124036	0	0.992278	0	theme_park.stp.invuln	buildoutObjectId|0|0|stp.npc.name|4|a Pendath Pilot|$|
+object/ship/star_destroyer_bridge_exterior.iff	0	7770.71	1404.14	8257.72	1	0	0	0	structure.filler.filler	buildoutObjectId|0|0|$|
+object/mobile/dressed_jedi_trainer_twilek_female_01.iff	0	13380.6	75	3655.1	-0.211293	0	0.977422	0	systems.combat.credit_for_kills:theme_park.stp.factional_npc	ai.defaultCalmBehavior|0|1|ai.defaultCalmMood|4|npc_imperial|buildoutObjectId|0|0|faction|4|Imperial|stp.faction|4|rebel|$|
+object/mobile/dressed_fed_dub_captain_twk_female_01.iff	0	13261.5	75	3658.55	0.901214	0	-0.433374	0	systems.combat.credit_for_kills:theme_park.stp.commoner	ai.defaultCalmBehavior|0|1|buildoutObjectId|0|0|$|
+object/static/worldbuilding/vehicles/barc_speeder_static_destroyed.iff	0	3975.04	29.5057	2875.36	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/worldbuilding/vehicles/landspeeder_static_destroyed.iff	0	3964.46	29.9301	2881.21	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/worldbuilding/vehicles/speeder_bike_static_destroyed.iff	0	3961.3	30.0758	2869.64	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/worldbuilding/mechanical/ship_parts/ywing_engine_s01.iff	0	3950.03	30.6159	2862.79	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/worldbuilding/mechanical/ship_parts/xwing_weapon_neg_s02.iff	0	3932.34	31.7761	2873.34	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/worldbuilding/mechanical/ship_parts/ship_component_reactor_s01.iff	0	3988.33	29.5037	2852.31	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/worldbuilding/mechanical/ship_parts/ship_component_capacitor_s01.iff	0	3994.52	29.2827	2858.58	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/worldbuilding/mechanical/ship_parts/kse_firespray_struct_s02.iff	0	3996.02	30.1321	2834.01	0.549827	0.444624	0.549827	0.444624		buildoutObjectId|0|0|$|
+object/static/worldbuilding/mechanical/ship_parts/hutt_fighter_heavy_engine_s01.iff	0	3948.77	30.7713	2880.73	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/space/debris/cargo_destroyed_large_a.iff	0	3970.16	29.7939	2860.45	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/space/debris/death_star_debris_e.iff	0	3932.14	148.729	2805.75	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/space/asteroid/asteroid_large_01.iff	0	3972.23	29.6923	2900.11	1	0	0	0		buildoutObjectId|0|0|$|
+object/tangible/space_mining/mining_rare/strange_asteroid_chunk.iff	0	3969.06	31.2257	2853.68	0.990901	0	0.13459	0		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod_door.iff	0	4012.52	28.7355	2874.05	-0.7034	0.691479	-0.0186353	-0.163522		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	4015.3	30.0656	2873.11	-0.605151	0.569435	0.405182	-0.381268		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	4023.98	28.1364	2870.22	0.788394	-0.325423	-0.505985	-0.128505		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	4017.28	29.2217	2860.7	-0.38029	0.64146	0.646436	0.161332		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	4032.32	28.3965	2882.46	-0.126237	-0.0362861	0.427034	0.894645		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	4015.91	28.3604	2885.4	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	4003.92	28.6039	2888.89	-0.522536	0.255036	-0.167382	0.796175		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	4005.59	28.2503	2866.68	0.402728	0.756545	0.272268	-0.437401		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	4023.31	30.029	2877.72	-0.272081	0.256382	0.925946	0.0535201		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	4002.98	29.0175	2880.52	0.658976	-0.162482	-0.441221	0.58709		buildoutObjectId|0|0|$|
+object/static/particle/pt_miasma_of_fog_orange.iff	0	3968.6	34.0233	2854.57	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/structure/general/atst_debris_01.iff	0	3962.3	29.4287	2860.8	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/structure/general/transport_debris_01.iff	0	3795.65	36.1365	2725.69	0.896053	0	0.443948	0		buildoutObjectId|0|0|$|
+object/static/structure/general/transport_debris_02.iff	0	3996.2	40.2536	3132.11	0.971338	0	-0.237703	0		buildoutObjectId|0|0|$|
+object/static/structure/general/trash_pile_no_flora_15m.iff	0	3982.56	30.0203	2825.2	0.635297	0	0.772268	0		buildoutObjectId|0|0|$|
+object/static/structure/general/prp_junk_s1.iff	0	3983.93	29.8638	2824.04	0.762136	0	-0.647417	0		buildoutObjectId|0|0|$|
+object/static/structure/general/prp_junk_s3.iff	0	3987.26	30.1125	2823.19	0.635297	0	0.772268	0		buildoutObjectId|0|0|$|
+object/static/structure/general/prp_junk_s2.iff	0	3987.99	30.096	2824.08	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/structure/general/prp_junk_s5.iff	0	3983.42	30.473	2809.67	0.635297	0	0.772268	0		buildoutObjectId|0|0|$|
+object/static/structure/general/prp_junk_s6.iff	0	3969.26	30.3191	2818.7	0.483899	-0.301532	0.801089	-0.182141		buildoutObjectId|0|0|$|
+object/static/structure/general/prp_junk_s7.iff	0	3974.56	30.0925	2803.86	0.617532	0.763376	0.180612	0.0573627		buildoutObjectId|0|0|$|
+object/static/structure/general/prp_junk_s8.iff	0	3983.92	29.9889	2825.28	0.635297	0	0.772268	0		buildoutObjectId|0|0|$|
+object/static/structure/general/prp_engine.iff	0	3982.16	29.7012	2847.2	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/structure/general/debris_deathstar_large_tube.iff	0	3972.67	31.5515	2804.34	0.539388	-0.318021	0.399425	0.669614		buildoutObjectId|0|0|$|
+object/static/structure/general/debris_deathstar_conduit.iff	0	3973.3	33.233	2805.45	-0.110124	-0.148508	0.982619	0.0166436		buildoutObjectId|0|0|$|
+object/static/structure/general/debris_deathstar_small_chunk.iff	0	3971.17	-0.40052	2803.47	0.0882785	0	0.996096	0		buildoutObjectId|0|0|$|
+object/static/structure/general/debris_deathstar_small_tube.iff	0	3969.11	30.2435	2824.9	0.635297	0	0.772268	0		buildoutObjectId|0|0|$|
+object/static/structure/general/debris_deathstar_storage.iff	0	3956.71	30.5769	2815.34	0.895641	-0.159258	0.375932	0.176464		buildoutObjectId|0|0|$|
+object/static/structure/general/debris_deathstar_turbolaser.iff	0	3959.38	30.3556	2835.4	0.998627	0	0.0523788	0		buildoutObjectId|0|0|$|
+object/static/structure/general/prp_junk_s6.iff	0	3970.75	30.6717	2818.38	0.4839	-0.301532	0.801089	-0.182141		buildoutObjectId|0|0|$|
+object/static/structure/general/prp_junk_s6.iff	0	3970.03	29.681	2817.42	0.4839	-0.301532	0.801089	-0.182141		buildoutObjectId|0|0|$|
+object/static/structure/general/debris_deathstar_large_tube.iff	0	3972.14	31.284	2804.71	0.539389	-0.318022	0.399425	0.669614		buildoutObjectId|0|0|$|
+object/static/structure/general/debris_deathstar_large_tube.iff	0	3971.48	31.2652	2805.07	0.539389	-0.318022	0.399425	0.669614		buildoutObjectId|0|0|$|
+object/static/structure/general/debris_deathstar_tractorbeam.iff	0	3951.74	30.6127	2829.52	0.996591	0	-0.082503	0		buildoutObjectId|0|0|$|
+object/static/worldbuilding/mechanical/ship_parts/hutt_fighter_heavy_engine_s01.iff	0	3944.5	23.3299	2790	0.801293	0.566025	0.148724	-0.124203		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3964.03	30.6876	2805.04	-0.605151	0.569435	0.405182	-0.381268		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod_door.iff	0	3960.95	30.6799	2806.02	0.727765	-0.664675	0.099732	0.13645		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod_door.iff	0	4015.1	28.9741	2858.56	-0.510681	0.324978	0.690298	0.396335		buildoutObjectId|0|0|$|
+object/static/worldbuilding/mechanical/ship_parts/ywing_engine_s01.iff	0	3996.08	28.4524	2834.99	0.847302	0.313004	0.274889	-0.329461		buildoutObjectId|0|0|$|
+object/building/kashyyyk/thm_all_humanoid_bone_thigh.iff	0	3998.24	29.0088	2869.02	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	4014.05	29.0764	2892.86	-0.233472	0.892483	-0.158019	-0.352127		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	4026.29	28.6643	2892.11	-0.451534	-0.299169	0.746316	-0.386816		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod_door.iff	0	4010.82	28.513	2889.4	0.249239	-0.363828	0.58832	0.677783		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod_door.iff	0	4020.67	28.6564	2874.95	-0.374303	0.232902	0.651343	0.617582		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	4102.04	41.8207	3194.58	-0.233472	0.892483	-0.158019	-0.352127		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod_door.iff	0	4098.81	41.6611	3191.12	0.249239	-0.363828	0.58832	0.677783		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3933.21	55.8569	3292.38	-0.233472	0.892483	-0.158019	-0.352127		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod_door.iff	0	3929.98	55.4125	3288.91	0.249239	-0.363828	0.58832	0.677783		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3700.22	66.2354	3108.63	-0.233472	0.892483	-0.158019	-0.352127		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod_door.iff	0	3696.99	66.541	3105.16	0.249239	-0.363828	0.58832	0.677783		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3924.9	39.6131	3053.16	-0.233472	0.892483	-0.158019	-0.352127		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod_door.iff	0	3921.67	39.7323	3049.7	0.249239	-0.363828	0.58832	0.677783		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3838.84	34.1265	2667.99	-0.233472	0.892483	-0.158019	-0.352127		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod_door.iff	0	3835.61	34.2223	2664.53	0.249239	-0.363828	0.58832	0.677783		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3688.45	44.7804	2751.41	-0.233472	0.892483	-0.158019	-0.352127		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod_door.iff	0	3685.22	44.8114	2747.95	0.249239	-0.363828	0.58832	0.677783		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3627.61	76.1301	2995.21	-0.233472	0.892483	-0.158019	-0.352127		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod_door.iff	0	3624.38	77.4324	2991.74	0.249239	-0.363828	0.58832	0.677783		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3856.08	34.9475	2648.79	-0.233472	0.892483	-0.158019	-0.352127		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod_door.iff	0	3852.85	35.1935	2645.33	0.249239	-0.363828	0.58832	0.677783		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3839.26	41.5304	2434.85	-0.233472	0.892483	-0.158019	-0.352127		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod_door.iff	0	3836.02	41.7071	2431.39	0.249239	-0.363828	0.58832	0.677783		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3719.73	39.0441	2527.82	-0.233472	0.892483	-0.158019	-0.352127		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod_door.iff	0	3716.49	39.0789	2524.36	0.249239	-0.363828	0.58832	0.677783		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3568.03	46.7123	2574.55	-0.233472	0.892483	-0.158019	-0.352127		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod_door.iff	0	3564.8	46.8627	2571.09	0.249239	-0.363828	0.58832	0.677783		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	4227.21	49.8612	3233.53	-0.451534	-0.299169	0.746316	-0.386816		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3997.68	51.5662	3277.56	-0.451534	-0.299169	0.746316	-0.386816		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	4143.96	33.1636	3078.41	-0.451534	-0.299169	0.746316	-0.386816		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3919.97	45.9885	3184	-0.451534	-0.299169	0.746316	-0.386816		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	4088.34	30.2022	2944.06	-0.451534	-0.299169	0.746316	-0.386816		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3769.48	57.291	3109.65	-0.451534	-0.299169	0.746316	-0.386816		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3789.65	42.2235	2823.14	-0.451534	-0.299169	0.746316	-0.386816		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3921.09	32.8546	2729.66	-0.451534	-0.299169	0.746316	-0.386816		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3681.16	41.0514	2561.7	-0.451534	-0.299169	0.746316	-0.386816		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3572.7	57.2794	2764.94	-0.451534	-0.299169	0.746316	-0.386816		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3540.16	49.6866	2491.67	-0.451534	-0.299169	0.746316	-0.386816		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	4055.15	35.6105	3124.98	-0.451534	-0.299169	0.746316	-0.386816		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	4047.16	31.4478	3002.72	-0.126237	-0.036286	0.427034	0.894645		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3995.29	36.3889	3088.18	-0.126237	-0.036286	0.427034	0.894645		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3924.85	36.2002	2982.74	-0.126237	-0.036286	0.427034	0.894645		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	4007.27	32.1992	3011.93	-0.126237	-0.036286	0.427034	0.894645		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	4116.81	37.8246	3155.39	-0.126237	-0.036286	0.427034	0.894645		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	4231.61	37.6166	3072.43	-0.126237	-0.036286	0.427034	0.894645		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	4165.78	42.4321	3195.02	-0.126237	-0.036286	0.427034	0.894645		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	4031.58	41.4295	3187.46	-0.126237	-0.036286	0.427034	0.894645		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3763.32	45.4193	2868.1	-0.126237	-0.036286	0.427034	0.894645		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3891.19	32.9343	2741.02	-0.126237	-0.036286	0.427034	0.894645		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3749.12	42.5161	2780.5	-0.126237	-0.036286	0.427034	0.894645		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	4143.74	36.0214	3109.58	0.402728	0.756545	0.272268	-0.437401		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	4023.56	36.0254	3110.47	0.402728	0.756545	0.272268	-0.437401		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3942.89	40.2815	3092.86	0.402728	0.756545	0.272268	-0.437401		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3913.2	38.4838	3012.78	0.402728	0.756545	0.272268	-0.437401		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3962	33.3986	2982.94	0.402728	0.756545	0.272268	-0.437401		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3800.2	43.2268	2874.87	0.402728	0.756545	0.272268	-0.437401		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3777.2	47.1773	2940.6	0.402728	0.756545	0.272268	-0.437401		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3798	38.1389	2754.46	0.402728	0.756545	0.272268	-0.437401		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3874.93	33.9748	2659.81	0.402728	0.756545	0.272268	-0.437401		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3721.63	41.6849	2730.04	0.402728	0.756545	0.272268	-0.437401		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3563.09	50.9423	2651.24	0.402728	0.756545	0.272268	-0.437401		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	4250.82	58.8175	3401.19	0.402728	0.756545	0.272268	-0.437401		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	4105.29	57.7479	3376.72	0.402728	0.756545	0.272268	-0.437401		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	4209.36	36.8969	3114.36	0.402728	0.756545	0.272268	-0.437401		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3917.31	47.2877	3199.77	0.402728	0.756545	0.272268	-0.437401		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3489.41	56.1736	2405.79	-0.605151	0.569435	0.405182	-0.381268		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod_door.iff	0	3486.63	56.4291	2406.73	-0.7034	0.691479	-0.018635	-0.163522		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3805.86	50.221	2297.86	-0.605151	0.569435	0.405182	-0.381268		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod_door.iff	0	3803.08	49.6325	2298.8	-0.7034	0.691479	-0.018635	-0.163522		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3860.54	34.5309	2571.68	-0.605151	0.569435	0.405182	-0.381268		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod_door.iff	0	3857.76	34.5199	2572.62	-0.7034	0.691479	-0.018635	-0.163522		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3551.38	107.813	2988.67	-0.605151	0.569435	0.405182	-0.381268		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod_door.iff	0	3548.6	110.213	2989.61	-0.7034	0.691479	-0.018635	-0.163522		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	4129.38	37.4391	2903.91	-0.605151	0.569435	0.405182	-0.381268		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod_door.iff	0	4126.6	36.5181	2904.85	-0.7034	0.691479	-0.018635	-0.163522		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	4197.24	52.8892	3337.2	-0.605151	0.569435	0.405182	-0.381268		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod_door.iff	0	4194.46	52.9019	3338.14	-0.7034	0.691479	-0.018635	-0.163522		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	4349.27	68.9187	3297.33	-0.605151	0.569435	0.405182	-0.381268		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod_door.iff	0	4346.49	68.3699	3298.27	-0.7034	0.691479	-0.018635	-0.163522		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3843.28	50.4843	3141.99	-0.605151	0.569435	0.405182	-0.381268		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod_door.iff	0	3840.5	50.75	3142.93	-0.7034	0.691479	-0.018635	-0.163522		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3614.11	57.2686	2825.09	-0.605151	0.569435	0.405182	-0.381268		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod_door.iff	0	3611.33	57.8585	2826.03	-0.7034	0.691479	-0.018635	-0.163522		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	4058.01	33.107	3067.69	-0.605151	0.569435	0.405182	-0.381268		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod_door.iff	0	4055.23	33.1465	3068.63	-0.7034	0.691479	-0.018635	-0.163522		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3761.67	37.7414	2677.17	-0.605151	0.569435	0.405182	-0.381268		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod_door.iff	0	3758.89	37.9147	2678.11	-0.7034	0.691479	-0.018635	-0.163522		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3493.54	73.0252	2727.57	-0.233472	0.892483	-0.158019	-0.352127		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod_door.iff	0	3490.31	73.8951	2724.11	0.249239	-0.363828	0.58832	0.677783		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3563.54	89.3734	2927.66	-0.233472	0.892483	-0.158019	-0.352127		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod_door.iff	0	3560.31	91.9518	2924.19	0.249239	-0.363828	0.58832	0.677783		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3917.82	36.9619	2495.61	-0.233472	0.892483	-0.158019	-0.352127		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod_door.iff	0	3914.58	37.1971	2492.15	0.249239	-0.363828	0.58832	0.677783		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	4023.93	36.8205	2678.7	-0.233472	0.892483	-0.158019	-0.352127		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod_door.iff	0	4020.7	36.4165	2675.23	0.249239	-0.363828	0.58832	0.677783		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3725.24	53.5741	2208.5	-0.233472	0.892483	-0.158019	-0.352127		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod_door.iff	0	3722.01	52.3428	2205.04	0.249239	-0.363828	0.58832	0.677783		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3838.57	48.0686	2342.1	-0.233472	0.892483	-0.158019	-0.352127		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod_door.iff	0	3835.34	47.0657	2338.63	0.249239	-0.363828	0.58832	0.677783		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3451.97	62.4976	2384.07	-0.233472	0.892483	-0.158019	-0.352127		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod_door.iff	0	3448.73	63.171	2380.61	0.249239	-0.363828	0.58832	0.677783		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3553.23	57.3694	2257.6	-0.233472	0.892483	-0.158019	-0.352127		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod_door.iff	0	3550	58.0158	2254.13	0.249239	-0.363828	0.58832	0.677783		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3772.36	61.6841	3198.58	-0.233472	0.892483	-0.158019	-0.352127		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod_door.iff	0	3769.13	61.7241	3195.12	0.249239	-0.363828	0.58832	0.677783		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3938.34	61.7227	3354.23	-0.233472	0.892483	-0.158019	-0.352127		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod_door.iff	0	3935.11	61.6754	3350.77	0.249239	-0.363828	0.58832	0.677783		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	4184.59	54.8771	3370.77	-0.233472	0.892483	-0.158019	-0.352127		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod_door.iff	0	4181.36	54.5548	3367.31	0.249239	-0.363828	0.58832	0.677783		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	4301.48	66.1043	3173.01	-0.233472	0.892483	-0.158019	-0.352127		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod_door.iff	0	4298.25	64.4321	3169.55	0.249239	-0.363828	0.58832	0.677783		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	4148.6	36.6126	2983.98	-0.233472	0.892483	-0.158019	-0.352127		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod_door.iff	0	4145.36	36.2155	2980.51	0.249239	-0.363828	0.58832	0.677783		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	4105.09	44.7703	2794.85	-0.233472	0.892483	-0.158019	-0.352127		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod_door.iff	0	4101.85	44.0394	2791.39	0.249239	-0.363828	0.58832	0.677783		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	4005.39	38.0928	2626.38	-0.233472	0.892483	-0.158019	-0.352127		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod_door.iff	0	4002.16	38.243	2622.91	0.249239	-0.363828	0.58832	0.677783		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3658.82	56.1316	2905.52	-0.233472	0.892483	-0.158019	-0.352127		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod_door.iff	0	3655.58	57.0892	2902.06	0.249239	-0.363828	0.58832	0.677783		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3833	49.048	3074.82	-0.233472	0.892483	-0.158019	-0.352127		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod_door.iff	0	3829.77	49.1456	3071.35	0.249239	-0.363828	0.58832	0.677783		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3855.75	39.0635	2890.33	-0.126237	-0.036286	0.427034	0.894645		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	4069.36	33.191	2811.4	-0.126237	-0.036286	0.427034	0.894645		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3795.36	36.1171	2691.77	-0.126237	-0.036286	0.427034	0.894645		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3706.48	47.0455	2818.94	-0.126237	-0.036286	0.427034	0.894645		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3621.49	44.7159	2644.46	-0.126237	-0.036286	0.427034	0.894645		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3776.32	37.0672	2562.81	-0.126237	-0.036286	0.427034	0.894645		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3947.3	34.8837	2617.14	-0.126237	-0.036286	0.427034	0.894645		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3820.76	38.8557	2482.92	-0.126237	-0.036286	0.427034	0.894645		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3790.98	36.0029	2645	-0.126237	-0.036286	0.427034	0.894645		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3848.11	34.4531	2735.09	-0.126237	-0.036286	0.427034	0.894645		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3705.31	52.7677	2937.2	-0.126237	-0.036286	0.427034	0.894645		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3752.84	56.716	3059.26	-0.126237	-0.036286	0.427034	0.894645		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3865.42	52.133	3222.2	-0.126237	-0.036286	0.427034	0.894645		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	4054.24	48.9788	3258.14	-0.126237	-0.036286	0.427034	0.894645		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	4256.66	53.5954	3306.56	-0.126237	-0.036286	0.427034	0.894645		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3784.68	50.0462	3015.12	0.788394	-0.325423	-0.505985	-0.128505		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3836.79	61.5701	3279.65	0.788394	-0.325423	-0.505985	-0.128505		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	4028.42	67.954	3406.75	0.788394	-0.325423	-0.505985	-0.128505		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	4268.88	55.7093	3307.42	0.788394	-0.325423	-0.505985	-0.128505		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	4191.5	58.4795	2893.31	0.788394	-0.325423	-0.505985	-0.128505		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	4187.97	38.211	3144.92	0.788394	-0.325423	-0.505985	-0.128505		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3795.99	48.561	3008.61	0.788394	-0.325423	-0.505985	-0.128505		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3934.46	34.3677	2673.66	0.788394	-0.325423	-0.505985	-0.128505		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3656.45	43.5853	2690.22	0.788394	-0.325423	-0.505985	-0.128505		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3642.96	41.8649	2488.35	0.788394	-0.325423	-0.505985	-0.128505		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3481.03	54.8537	2509.36	0.788394	-0.325423	-0.505985	-0.128505		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3481.4	56.9516	2409.88	0.788394	-0.325423	-0.505985	-0.128505		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3730.96	46.3755	2311.35	0.788394	-0.325423	-0.505985	-0.128505		buildoutObjectId|0|0|$|
+object/static/structure/general/escape_pod.iff	0	3614.3	55.6615	2227.21	0.788394	-0.325423	-0.505985	-0.128505		buildoutObjectId|0|0|$|
+object/static/structure/general/all_sign_shop_s04.iff	0	2540.04	122.008	12682.1	-0.382683	0	0.92388	0		buildoutObjectId|0|0|$|
+object/static/structure/general/empty_pallet.iff	0	2535.81	121.468	12703.5	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/structure/general/empty_pallet.iff	0	2536.48	121.42	12706.6	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/item/item_container_electronics.iff	0	2536.96	121.555	12707.1	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/item/item_container_electronics.iff	0	2536.93	122.32	12707.1	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/item/item_container_inorganic_chemicals.iff	0	2537.05	121.555	12705.7	0.707388	0	0.706825	0		buildoutObjectId|0|0|$|
+object/static/item/item_container_energy_solid.iff	0	2535.93	121.555	12706.4	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/item/item_container_energy_solid.iff	0	2535.92	121.555	12707.5	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/item/item_container_energy_solid.iff	0	2535.93	121.555	12706.9	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/item/item_newbie_crate.iff	0	2535.34	121.602	12704.1	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/item/item_newbie_crate.iff	0	2536.42	121.602	12703	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/item/item_newbie_crate.iff	0	2536.42	121.602	12704.1	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/item/item_newbie_crate.iff	0	2535.35	121.602	12703	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/item/item_newbie_crate.iff	0	2536.41	122.602	12704	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/item/item_newbie_crate.iff	0	2535.34	122.602	12703	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/item/item_newbie_crate.iff	0	2536.42	122.602	12703	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/item/item_newbie_crate.iff	0	2535.33	122.602	12704.1	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/item/item_organic_container.iff	0	2535.81	121.555	12705.8	1	0	0	0		buildoutObjectId|0|0|$|
+object/static/structure/general/slab_concrete_imperial.iff	0	2588	110	12736	0.989506	0	-0.144492	0		buildoutObjectId|0|0|$|
+object/mobile/snorbal_matriarch.iff	0	13325.5	75	3588.46	0.708139	0	-0.706074	0	theme_park.stp.invuln	buildoutObjectId|0|0|stp.npc.name|4|Lumpy|$|
+object/mobile/snorbal_hue.iff	0	13327	75	3593.74	-0.649908	0	0.760013	0	theme_park.stp.invuln	buildoutObjectId|0|0|stp.npc.name|4|Shiny|$|
+object/mobile/dressed_governor.iff	0	13179.2	75	3588.77	0.479188	0	0.877712	0	theme_park.stp.invuln	buildoutObjectId|0|0|stp.npc.name|4|Jerooba Vir (a Dim-U Scholar)|$|
+object/mobile/dressed_commoner_tatooine_aqualish_male_08.iff	0	13266.1	75	3526.59	0.747339	0	0.664443	0	systems.combat.credit_for_kills:theme_park.stp.shady	ai.defaultCalmBehavior|0|1|buildoutObjectId|0|0|$|
+object/mobile/dressed_commoner_fat_human_female_02.iff	0	13309.2	75	3529.63	0.924325	0	-0.381606	0	systems.combat.credit_for_kills:theme_park.stp.commoner	ai.defaultCalmBehavior|0|1|buildoutObjectId|0|0|$|
+object/mobile/dressed_collection_npc_male_ithorian_02.iff	0	13321.9	75	3530.58	-0.0998085	0	0.995007	0	systems.combat.credit_for_kills:theme_park.stp.commoner	ai.defaultCalmBehavior|0|1|buildoutObjectId|0|0|$|
+object/mobile/dressed_combatmedic_trainer_human_male_01.iff	0	13310.4	75	3525.4	0.980851	0	-0.194762	0	systems.combat.credit_for_kills:theme_park.stp.commoner	ai.defaultCalmBehavior|0|1|buildoutObjectId|0|0|$|
+object/mobile/dressed_collection_npc_female_human_01.iff	0	13269.5	75	3532.44	0.691859	0	0.722033	0	theme_park.stp.invuln	buildoutObjectId|0|0|stp.npc.name|4|a merchant|$|
+object/mobile/dressed_marooned_pirate_captain_hum_m.iff	0	13309.9	75	3526.2	0.697592	0	0.716495	0	systems.combat.credit_for_kills:theme_park.stp.commoner	ai.defaultCalmBehavior|0|1|buildoutObjectId|0|0|$|
+object/mobile/dressed_selonian_m_05.iff	0	13270.5	75	3494.38	-0.474145	0	0.880447	0	systems.combat.credit_for_kills:theme_park.stp.shady	ai.defaultCalmBehavior|0|1|buildoutObjectId|0|0|$|
+object/mobile/dressed_selonian_f_03.iff	0	13269.9	74.9997	3492.07	0.99994	0	-0.010931	0	theme_park.stp.invuln	buildoutObjectId|0|0|stp.npc.name|4|an information broker|$|
+object/mobile/dressed_shoartu_warrior_02.iff	0	13275	75	3519.3	0.98295	0	-0.183875	0	theme_park.stp.invuln	buildoutObjectId|0|0|stp.npc.name|4|Taobacca|$|
+object/mobile/dressed_tailor_trainer_02.iff	0	13317.3	75	3526.42	0.822952	0	0.568111	0	systems.combat.credit_for_kills:theme_park.stp.commoner	ai.defaultCalmBehavior|0|1|buildoutObjectId|0|0|$|
+object/mobile/dressed_tatooine_gunrunner.iff	0	13309	75	3530.88	0.284241	0	0.958753	0	systems.combat.credit_for_kills:theme_park.stp.commoner	ai.defaultCalmBehavior|0|1|buildoutObjectId|0|0|$|
+object/mobile/dressed_tatooine_fixer.iff	0	13313.4	75	3522.48	0.0016005	0	0.999999	0	systems.combat.credit_for_kills:theme_park.stp.commoner	ai.defaultCalmBehavior|0|1|buildoutObjectId|0|0|$|
+object/mobile/dressed_tatooine_jabba_scout.iff	0	13310.6	75	3526.52	-0.368216	0	0.92974	0	systems.combat.credit_for_kills:theme_park.stp.shady	ai.defaultCalmBehavior|0|1|buildoutObjectId|0|0|$|
+object/mobile/dressed_commoner_tatooine_aqualish_male_08.iff	0	13267.6	75	3526.55	-0.587496	0	0.809228	0	systems.combat.credit_for_kills:theme_park.stp.shady	ai.defaultCalmBehavior|0|1|buildoutObjectId|0|0|$|
+object/mobile/dressed_tatooine_squatter.iff	0	13220.7	74.9772	3469.13	0.785128	0	0.619334	0	theme_park.stp.invuln	buildoutObjectId|0|0|stp.npc.name|4|Wendle's Mechanic|$|
+object/static/structure/general/old_safe.iff	0	13203.9	74.7874	3699.89	0.382683	0	0.92388	0		buildoutObjectId|0|0|$|
+object/static/structure/general/old_safe.iff	0	13203.3	74.785	3699.37	0.382683	0	0.92388	0		buildoutObjectId|0|0|$|
+object/static/structure/general/locked_container.iff	0	13202.8	74.7819	3698.69	0.453596	0	0.891207	0		buildoutObjectId|0|0|$|
+object/static/structure/general/locked_container.iff	0	13202.8	74.7819	3698.67	0.453596	0	0.891207	0		buildoutObjectId|0|0|$|
+object/tangible/tcg/series7/garage_display_vehicles/hoverlifter_speeder.iff	0	13177	75	3563	0.707107	0	0.707107	0		buildoutObjectId|0|0|$|
+object/static/worldbuilding/building/frn_tech_droid_rack_arm.iff	0	13177	75.6245	3558	0.707117	0	-0.707096	0		buildoutObjectId|0|0|$|
+object/static/worldbuilding/building/frn_tech_droid_rack_base.iff	0	13174	76.0383	3556	-1.3411e-07	0.707107	1.3411e-07	-0.707107		buildoutObjectId|0|0|$|
+object/static/worldbuilding/building/frn_tech_droid_rack_base.iff	0	13174	75.9617	3556	-0.707107	0	0.707107	0		buildoutObjectId|0|0|$|
+object/static/worldbuilding/camping/camping_cot.iff	0	13350.3	74.9746	3500.43	0.710922	0	0.70327	0		buildoutObjectId|0|0|$|
+object/static/worldbuilding/camping/camping_cot.iff	0	13351.8	74.9844	3502.16	0.99955	0	-0.0299987	0		buildoutObjectId|0|0|$|
+object/static/worldbuilding/camping/frn_all_glow_lantern_s2.iff	0	13351	74.9824	3501.34	-0.289978	0	0.957034	0		buildoutObjectId|0|0|$|
+object/static/worldbuilding/camping/frn_all_exceptional_meat_rack.iff	0	13351.5	74.9813	3498.73	0.991562	0	0.129634	0		buildoutObjectId|0|0|$|
+object/static/worldbuilding/camping/eqp_camping_chair_s2.iff	0	13353.1	74.9819	3500.71	-0.514819	0	0.857299	0		buildoutObjectId|0|0|$|
+object/static/worldbuilding/camping/eqp_camping_chair_s2.iff	0	13353.1	74.9807	3499.4	0.828148	0	-0.56051	0		buildoutObjectId|0|0|$|
+object/static/structure/general/planter_generic_style_3.iff	0	13260	0.00469971	3469	0	0	1	0		buildoutObjectId|0|0|$|
+object/static/structure/corellia/corl_imprv_wall_4x16_s01.iff	0	13255.1	75	3870.63	-0.655918	0	0.754832	0		buildoutObjectId|0|0|$|
+object/static/structure/corellia/corl_imprv_column_s02.iff	0	13256.2	75	3862.63	0.99639	0	-0.0848976	0		buildoutObjectId|0|0|$|
+object/static/structure/corellia/corl_imprv_wall_4x16_s01.iff	0	13257.4	75	3854.52	-0.655918	0	0.754832	0		buildoutObjectId|0|0|$|
+object/building/taanab/filler_block_taanab_64x32_s02.iff	0	13534.3	74.3807	3623.2	0.952578	0	0.304295	0	structure.filler.filler	buildoutObjectId|0|0|$|
+object/tangible/terminal/terminal_bazaar.iff	0	13215	75	3590	0.707112	0	0.707101	0	terminal.bazaar:planet_map.map_loc:planet_map.map_loc_attach	buildoutObjectId|0|0|$|
+object/tangible/terminal/terminal_bazaar.iff	0	13215	75	3586	0.707116	0	0.707097	0	terminal.bazaar:planet_map.map_loc:planet_map.map_loc_attach	buildoutObjectId|0|0|$|
+object/tangible/terminal/terminal_bazaar.iff	0	13239	75	3610	1.87554e-06	0	1	0	terminal.bazaar:planet_map.map_loc:planet_map.map_loc_attach	buildoutObjectId|0|0|$|
+object/tangible/terminal/terminal_bazaar.iff	0	13235	75	3610	7.50214e-06	0	1	0	terminal.bazaar:planet_map.map_loc:planet_map.map_loc_attach	buildoutObjectId|0|0|$|
+object/tangible/terminal/terminal_bazaar.iff	0	13259	75	3586	-0.707105	0	0.707108	0	terminal.bazaar:planet_map.map_loc:planet_map.map_loc_attach	buildoutObjectId|0|0|$|
+object/tangible/terminal/terminal_bazaar.iff	0	13259	75	3590	-0.707101	0	0.707112	0	terminal.bazaar:planet_map.map_loc:planet_map.map_loc_attach	buildoutObjectId|0|0|$|
+object/tangible/terminal/terminal_bazaar.iff	0	13235	75	3566	1	0	0	0	terminal.bazaar:planet_map.map_loc:planet_map.map_loc_attach	buildoutObjectId|0|0|$|
+object/tangible/terminal/terminal_bazaar.iff	0	13239	75	3566	1	0	0	0	terminal.bazaar:planet_map.map_loc:planet_map.map_loc_attach	buildoutObjectId|0|0|$|
+object/tangible/crafting/station/public_weapon_station.iff	0	13288	0	3654	0.707107	0	0.707107	0	systems.crafting.base_station	buildoutObjectId|0|0|crafting.private|0|0|crafting.station|0|1|crafting.type|0|526369|$|
+object/tangible/crafting/station/public_space_station.iff	0	13205.1	75	3689.69	-0.380556	0	0.924758	0	systems.crafting.base_station	buildoutObjectId|0|0|crafting.private|0|0|crafting.station|0|1|crafting.type|0|393216|$|
+object/tangible/crafting/station/public_weapon_station.iff	0	13273.2	75	3599.73	1	0	0	0	systems.crafting.base_station	buildoutObjectId|0|0|crafting.private|0|0|crafting.station|0|1|crafting.type|0|526369|$|
+object/tangible/crafting/station/public_structure_station.iff	0	13174.7	75	3578.84	0.707107	0	0.707107	0	systems.crafting.base_station	buildoutObjectId|0|0|crafting.private|0|0|crafting.station|0|1|crafting.type|0|1536|$|
+object/tangible/crafting/station/public_food_station.iff	0	13174.7	75	3574.31	0.707111	0	0.707102	0	systems.crafting.base_station	buildoutObjectId|0|0|crafting.private|0|0|crafting.station|0|1|crafting.type|0|8644|$|
+object/tangible/crafting/station/public_clothing_station.iff	0	13175	75	3582.53	2.95028e-07	0	1	0	systems.crafting.base_station	buildoutObjectId|0|0|crafting.private|0|0|crafting.station|0|1|crafting.type|0|10|$|
+object/building/poi/generic_flatten_medium.iff	0	2388.6	32.2682	1847.26	1	0	0	0		buildoutObjectId|0|0|$|
+object/building/endor/endr_lake_rail16m.iff	0	2382	32.2681	1862	1	0	0	0		buildoutObjectId|0|0|$|
+object/building/endor/endr_lake_rail16m.iff	0	2374	32.2681	1854	-0.707107	0	0.707107	0		buildoutObjectId|0|0|$|
+object/building/endor/endr_lake_rail16m.iff	0	2390	32.2681	1846	0	0	1	0		buildoutObjectId|0|0|$|
+object/building/endor/endr_lake_rail16m.iff	0	2398	32.2681	1854	0.707105	0	0.707108	0		buildoutObjectId|0|0|$|
+object/building/endor/endr_lake_rail8m.iff	0	2394	32.2681	1862	1	0	0	0		buildoutObjectId|0|0|$|
+object/building/endor/endor_tiki_torch.iff	0	2382	32.2682	1846	1	0	0	0	structure.filler.filler	buildoutObjectId|0|0|$|
+object/building/endor/endor_tiki_torch.iff	0	2374	32.2682	1846	1	0	0	0	structure.filler.filler	buildoutObjectId|0|0|$|
+object/mobile/bantha.iff	0	2378.85	32.2683	1860.35	0.803896	0	-0.59477	0	theme_park.stp.invuln	buildoutObjectId|0|0|$|
+object/mobile/bantha.iff	0	2393.72	32.2683	1855.7	0.99535	0	-0.0963281	0	theme_park.stp.invuln	buildoutObjectId|0|0|$|
+object/mobile/bantha.iff	0	2385.11	32.2683	1851.38	0.960096	0	0.279671	0	theme_park.stp.invuln	buildoutObjectId|0|0|$|
+object/mobile/bantha.iff	0	2378.52	32.2683	1855.48	-0.497609	0	0.867402	0	theme_park.stp.invuln	buildoutObjectId|0|0|$|
+object/building/corellia/filler_block_corellia_64x32_s02.iff	0	13469.8	75	3783.03	1	0	0	0	structure.filler.filler	buildoutObjectId|0|0|$|
+object/building/corellia/filler_block_corellia_64x32_s02.iff	0	13458.3	75	3832.74	0.972514	0	-0.232843	0	structure.filler.filler	buildoutObjectId|0|0|$|
+object/building/corellia/filler_block_corellia_64x32_s02.iff	0	13425.2	75	3868.44	0.860269	0	-0.509841	0	structure.filler.filler	buildoutObjectId|0|0|$|
+object/building/corellia/filler_slum_16x16_s01.iff	0	13385.7	75	3862.93	0.995491	0	0.0948572	0	structure.filler.filler	buildoutObjectId|0|0|$|
+object/building/corellia/filler_slum_16x16_s01.iff	0	13388.7	75	3883.22	0.995491	0	0.094857	0	structure.filler.filler	buildoutObjectId|0|0|$|
+object/static/structure/corellia/corl_imprv_column_s02.iff	0	13416.5	75	3883.29	1	0	0	0		$|
+object/static/structure/corellia/corl_imprv_column_s02.iff	0	13448.5	75	3883.29	1	0	0	0		$|
+object/static/structure/corellia/corl_imprv_wall_4x32_s01.iff	0	13432.5	75.0137	3883.29	1	0	0	0		$|
+object/tangible/terminal/terminal_city_junk_dealer.iff	0	13420.8	75	3884.21	1	0	0	0	terminal.terminal_city_junk_dealer:planet_map.map_loc:planet_map.map_loc_attach	$|
+object/tangible/terminal/terminal_mission_entertainer.iff	0	13421.9	75	3884.16	1	0	0	0	systems.missions.base.mission_terminal:planet_map.map_loc:planet_map.map_loc_attach	intEntertainer|0|1|$|
+object/static/structure/corellia/corl_imprv_wall_4x16_s01.iff	0	13268.8	75	3817.31	-0.548357	0	0.836244	0		$|
+object/static/structure/corellia/corl_imprv_column_s02.iff	0	13265.4	75	3824.8	0.844376	0	0.535752	0		$|
+object/static/structure/corellia/corl_imprv_wall_4x16_s01.iff	0	13262.2	75	3832.2	-0.548357	0	0.836244	0		$|
+object/static/structure/corellia/corl_imprv_arch_sm_s01.iff	0	13258.9	75	3843.32	-0.690872	0	0.722977	0		$|
+object/static/structure/corellia/corl_imprv_wall_4x16_s01.iff	0	13321.8	75	3718.23	-0.0803118	0	0.99677	0		$|
+object/static/structure/corellia/corl_imprv_wall_4x32_s01.iff	0	13298.8	75	3736.47	0.879206	0	0.476441	0		$|
+object/static/structure/corellia/corl_imprv_column_s02.iff	0	13297.6	75	3738.19	-0.51679	0	0.856112	0		$|
+object/static/structure/corellia/corl_imprv_column_s02.iff	0	13271.8	75	3810.43	-0.574785	0.0108957	0.818226	-0.00303164		$|
+object/static/structure/corellia/corl_imprv_wall_4x32_s01.iff	0	13275.1	75	3795.11	0.779712	0	0.626139	0		$|
+object/static/structure/corellia/corl_imprv_column_s02.iff	0	13278.8	75.7589	3779.05	-0.607046	0.0110084	0.794586	-0.00259351		$|
+object/static/structure/corellia/corl_imprv_column_s02.iff	0	13290.4	75.064	3749.39	-0.51186	0.0106384	0.858994	-0.00383926		$|
+object/static/structure/corellia/corl_imprv_wall_4x32_s01.iff	0	13284.6	75	3764.1	0.82725	0	0.561833	0		$|
+object/static/structure/corellia/corl_imprv_column_s02.iff	0	13329.7	75	3716.93	0.751805	0	-0.659385	0		$|
+object/static/structure/corellia/corl_imprv_wall_4x16_s01.iff	0	13337.9	75	3715.72	-0.0803118	0	0.99677	0		$|
+object/static/structure/corellia/corl_imprv_arch_sm_s01.iff	0	13310.6	75	3721.47	-0.259684	0	0.965694	0		$|
+object/static/structure/corellia/corl_imprv_wall_4x16_s01.iff	0	13352	75	3710.33	-0.276739	0	0.960945	0		$|
+object/static/structure/corellia/corl_imprv_column_s02.iff	0	13359.1	75	3706.01	0.822502	0	-0.568762	0		$|
+object/static/structure/corellia/corl_imprv_wall_4x16_s01.iff	0	13366.7	75	3705.96	-0.000398734	0	0.999999	0		$|
+object/static/structure/corellia/corl_imprv_column_s02.iff	0	13504.2	75	3700.02	0.999824	-0.00885	-0.014997	-0.007042		$|
+object/static/structure/corellia/corl_imprv_wall_4x32_s01.iff	0	13520.5	74.9992	3701.28	0.998988	0	-0.044983	0		$|
+object/static/structure/corellia/corl_imprv_column_s02.iff	0	13374.9	75	3706.03	-0.696707	0	0.717356	0		$|
+object/building/taanab/hotel_taanab.iff	0	13532.3	75	3727.67	0.99955	0	-0.0299955	0	planet_map.map_loc:systems.event_perk.promoter_hotel_spawner	event_perk.promoter|6|561511202|healing.canhealshock|0|1|portalProperty.crc|0|571621382|safeLogout|0|1|$|
+object/cell/cell.iff	1	0	0	0	1	0	0	0		$|
+object/cell/cell.iff	2	0	0	0	1	0	0	0		$|
+object/cell/cell.iff	3	0	0	0	1	0	0	0		$|
+object/cell/cell.iff	4	0	0	0	1	0	0	0		$|
+object/cell/cell.iff	5	0	0	0	1	0	0	0		$|
+object/cell/cell.iff	6	0	0	0	1	0	0	0		$|
+object/cell/cell.iff	7	0	0	0	1	0	0	0		$|
+object/cell/cell.iff	8	0	0	0	1	0	0	0		$|
+object/cell/cell.iff	9	0	0	0	1	0	0	0		$|
+object/cell/cell.iff	10	0	0	0	1	0	0	0		$|
+object/tangible/spawning/static_npc/event_promoter_neutral.iff	10	-23	1.6	-15	1	0	0	0	systems.event_perk.promoter_spawner	npc_name|4|An Event Promoter|promoter_type|4|neutral|quest_script|4|systems.event_perk.promoter|spawns|4|commoner|$|
+object/building/taanab/filler_slum_16x32_s02.iff	0	13424.3	75	3837.05	1	0	0	0	structure.filler.filler	$|
+object/building/taanab/filler_slum_16x32_s02.iff	0	13440.3	75	3837.05	0	0	1	0	structure.filler.filler	$|
+object/building/taanab/salon_taanab.iff	0	13267.8	75	3856.39	0.754836	0	0.655914	0	planet_map.map_loc	portalProperty.crc|0|2069257137|salon|0|1|$|
+object/cell/cell.iff	1	0	0	0	1	0	0	0		$|
+object/building/taanab/hospital_taanab_s02.iff	0	13511	75	3907	0.941075	0	0.338197	0	planet_map.map_loc:npc.skillteacher.hospital_02_trainer_spawner:structure.municipal.hospital	healing.canhealwound|0|1|portalProperty.crc|0|1119574905|$|
+object/cell/cell.iff	1	0	0	0	1	0	0	0		$|
+object/cell/cell.iff	2	0	0	0	1	0	0	0		$|
+object/cell/cell.iff	3	0	0	0	1	0	0	0		$|
+object/static/structure/corellia/corl_imprv_wall_4x16_s01.iff	0	13490	75	3917	0.942755	0	0.333487	0		$|
+object/building/player/player_garage_corellia_style_01.iff	0	13576.4	74.9999	3738.89	0.989506	0	-0.144492	0	systems.vehicle_system.vehicle_garage:planet_map.map_loc_both	$|
+object/building/player/city/garden_corellia_med_02.iff	0	13528.3	75.5105	3788.01	0.99955	0	-0.0299955	0		$|
+object/building/player/city/theater_corellia.iff	0	13432.1	78.0905	3806.18	0	0	1	0		portalProperty.crc|0|-1132434285|$|
+object/cell/cell.iff	1	0	0	0	1	0	0	0		$|
+object/building/player/city/cloning_corellia.iff	0	13359.5	76.7719	3812.59	1	0	0	0	structure.municipal.cloning_facility	portalProperty.crc|0|-1226513532|$|
+object/cell/cell.iff	1	0	0	0	1	0	0	0		$|
+object/cell/cell.iff	2	0	0	0	1	0	0	0		$|
+object/cell/cell.iff	3	0	0	0	1	0	0	0		$|
+object/cell/cell.iff	4	0	0	0	1	0	0	0		$|
+object/building/taanab/filler_slum_16x32_s01.iff	0	13349.8	75	3827.48	1	0	0	0	structure.filler.filler	$|
+object/building/taanab/filler_slum_16x32_s01.iff	0	13349.7	75	3797.29	0	0	1	0	structure.filler.filler	$|
+object/building/taanab/capitol_taanab.iff	0	13430.9	75	3704.2	1	0	0	0	planet_map.map_loc	portalProperty.crc|0|-1499110558|$|
+object/cell/cell.iff	1	0	0	0	1	0	0	0		$|
+object/cell/cell.iff	2	0	0	0	1	0	0	0		$|
+object/cell/cell.iff	3	0	0	0	1	0	0	0		$|
+object/cell/cell.iff	4	0	0	0	1	0	0	0		$|
+object/cell/cell.iff	5	0	0	0	1	0	0	0		$|
+object/cell/cell.iff	6	0	0	0	1	0	0	0		$|
+object/cell/cell.iff	7	0	0	0	1	0	0	0		$|
+object/cell/cell.iff	8	0	0	0	1	0	0	0		$|
+object/cell/cell.iff	9	0	0	0	1	0	0	0		$|
+object/cell/cell.iff	10	0	0	0	1	0	0	0		$|
+object/cell/cell.iff	11	0	0	0	1	0	0	0		$|
+object/static/structure/corellia/corl_imprv_column_s02.iff	0	13472.1	75	3697.06	0.999824	-0.00885	-0.014997	-0.007042		$|
+object/static/structure/corellia/corl_imprv_wall_4x32_s01.iff	0	13488.4	75	3698.31	0.998988	0	-0.044983	0		$|
+object/building/taanab/filler_slum_16x32_s02.iff	0	13440.3	75	3867.41	0	0	1	0	structure.filler.filler	$|
+object/building/taanab/filler_slum_16x32_s02.iff	0	13424.3	75	3867.41	1	0	0	0	structure.filler.filler	$|
+object/building/taanab/skyscraper_taanab_style_03.iff	0	13299.6	75	3926.42	0.930508	0	-0.366273	0	structure.filler.filler	$|
+object/static/structure/corellia/corl_imprv_column_s02.iff	0	13345.4	75	3714.21	0.977948	0	0.20885	0		$|
+object/static/structure/corellia/corl_imprv_wall_4x16_s01.iff	0	13383.6	75	3706.03	-0.000399	0	0.999999	0		$|
+object/static/structure/corellia/corl_imprv_wall_4x16_s01.iff	0	13320.2	75	3945.49	1	0	0	0		$|

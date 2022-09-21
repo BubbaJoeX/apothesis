@@ -215,7 +215,8 @@ public class base_player extends script.base_script
         "kachirho",
         "etyyy",
         "khowir",
-        "mustafar"
+        "mustafar",
+        "taanab"
     };
     public static final String[] WAYPOINT_GROUND_PLANETS_INTERNAL = 
     {
@@ -232,7 +233,8 @@ public class base_player extends script.base_script
         "kashyyyk_main",
         "kashyyyk_hunting",
         "kashyyyk_dead_forest",
-        "mustafar"
+        "mustafar",
+        "taanab"
     };
     public static final vector[] WAYPOINT_GROUND_PLANETS_BUILDOUT_COORDS = 
     {
@@ -2322,7 +2324,7 @@ public class base_player extends script.base_script
     {
         dictionary outparams = new dictionary();
         outparams.put("loc", getLocation(self));
-        messageTo(self, "handleDelayedEjection", outparams, 10.0f, false);
+        messageTo(self, "handleDelayedEjection", outparams, 1.0f, true);
         sendSystemMessage(self, SID_SYS_EJECT_REQUEST);
         return SCRIPT_CONTINUE;
     }
@@ -4027,7 +4029,7 @@ public class base_player extends script.base_script
         {
             return SCRIPT_OVERRIDE;
         }
-        corpse.lootPlayerCorpse(self, target);
+        corpse.lootPlayerCorpse(self, target);//@note player looting
         return SCRIPT_CONTINUE;
     }
     public int cmdActivateClone(obj_id self, obj_id target, String params, float defaultTime) throws InterruptedException
@@ -6138,7 +6140,8 @@ public class base_player extends script.base_script
             "naboo",
             "rori",
             "talus",
-            "tatooine"
+            "tatooine",
+            "taanab"
         };
         java.util.Map counts = new java.util.HashMap();
         String[] cityPlanet = new String[cities.length];
@@ -6194,7 +6197,8 @@ public class base_player extends script.base_script
             "naboo",
             "rori",
             "talus",
-            "tatooine"
+            "tatooine",
+            "taanab"
         };
         String planet = planets[idx];
         int[] cities = getAllCityIds();

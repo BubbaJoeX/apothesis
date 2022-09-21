@@ -97,6 +97,7 @@ public class loot extends script.base_script
         "endor",
         "naboo",
         "tatooine",
+        "taanab",
         "yavin4"
     };
     public static final String[] CHEST_TYPES = {

@@ -293,6 +293,12 @@ public class regions extends script.base_script
         {
             return "rori";
         }
+        objNamedPlanet = getPlanetByName("taanab");
+        LOG("regions_spam", "rori is " + objNamedPlanet);
+        if (objNamedPlanet == objPlanet)
+        {
+            return "taanab";
+        }
         return null;
     }
     public static boolean isInPvPRegion(obj_id object) throws InterruptedException

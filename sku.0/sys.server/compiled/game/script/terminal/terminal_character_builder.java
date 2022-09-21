@@ -9,7 +9,6 @@ import java.util.Vector;
 import java.lang.String;
 import script.base_script;
 
-import script.library.*;
 
 public class terminal_character_builder extends script.base_script
 {
@@ -80,23 +79,23 @@ public class terminal_character_builder extends script.base_script
     public static final String[] CHRONICLER_SKILLS = {
         "class_chronicles",
         "class_chronicles_novice",
-	"class_chronicles_1",
-	"class_chronicles_2",
-	"class_chronicles_3",
+	    "class_chronicles_1",
+	    "class_chronicles_2",
+	    "class_chronicles_3",
         "class_chronicles_4",
-	"class_chronicles_5",
-	"class_chronicles_6",
-	"class_chronicles_7",
-	"class_chronicles_8",
-	"class_chronicles_9",
+	    "class_chronicles_5",
+	    "class_chronicles_6",
+	    "class_chronicles_7",
+	    "class_chronicles_8",
+	    "class_chronicles_9",
         "class_chronicles_10",
-	"class_chronicles_11",
-	"class_chronicles_12",
-	"class_chronicles_13",
-	"class_chronicles_14",
-	"class_chronicles_15",
+	    "class_chronicles_11",
+	    "class_chronicles_12",
+	    "class_chronicles_13",
+	    "class_chronicles_14",
+	    "class_chronicles_15",
         "class_chronicles_16",
-	"class_chronicles_master"
+	    "class_chronicles_master"
     };
     public static final String[] DEV_TESTING_OPTIONS = {
         "Halloween tokens",
@@ -109,7 +108,7 @@ public class terminal_character_builder extends script.base_script
         "Tusken, Axkva Min, Echo Base, IG-88 Tokens",
         "Exar Kun, Black Sun, Marauder, Space Duty Tokens",
         "Holoshrouds for costume testing",
-	"Chronicles Tokens"
+	    "Chronicles Tokens"
     };
     public static final String[] RESOURCE_TYPES = {
         "Creature Resources",
@@ -2510,7 +2509,7 @@ public class terminal_character_builder extends script.base_script
                 buff.applyBuff((player), "me_buff_melee_gb_1", 7200);
                 buff.applyBuff((player), "me_buff_ranged_gb_1", 7200);
                 buff.applyBuff((player), "of_buff_def_9", 7200);
-			          buff.applyBuff((player), "frogBuff", 7200);
+			    buff.applyBuff((player), "frogBuff", 7200);
                 buff.applyBuff((player), "of_focus_fire_6", 7200);
                 buff.applyBuff((player), "of_tactical_drop_6", 7200);
                 buff.applyBuff((player), "banner_buff_commando", 7200);
